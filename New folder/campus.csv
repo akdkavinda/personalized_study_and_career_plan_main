@@ -1,0 +1,1515 @@
+personality,University name,Z-core,Degree Name,District,O/L Maths ,O/L Science,O/L  English ,A/L Combine Maths,A/L Bio,A/L Physics ,A/L Chemistry,Public/Private
+Open,Ruhuna,0.889,Physical Science,Kalutara,A,A,C,C,,B,C,Public
+Open,Ruhuna,0.69,Physical Science,Matale,B,C,B,B,,C,S,Public
+Open,Ruhuna,0.7892,Physical Science,Hambantota,A,B,C,C,,C,C,Public
+Conscientiousness,Ruhuna,0.79,Physical Science,Matara,B,A,A,B,,C,C,Public
+Conscientiousness,Ruhuna,0.84,Physical Science,Matara,A,B,A,B,,B,C,Public
+Conscientiousness,Ruhuna,1.3,Physical Science,Hambantota,A,A,A,A,,B,C,Public
+Neuroticism,SLIIT,0.35,Computing,Mathara,B,A,S,-,S,,S,Public
+Neuroticism,SLIIT,0.5888,Computing,Gampaha,A,B,B,S,,,C,Public
+Neuroticism,SLIIT,0.05,Computing,Anuradhapura,A,A,B,,,,S,Public
+Neuroticism,SLIIT,0.3,Computing,Colombo,A,B,A,S,,,S,Public
+Neuroticism,Ruhuna,1.37,Computing,Galle,A,A,A,F,F,B,F,Public
+Neuroticism,Ruhuna,0.88,Physical Science,Hambantota,A,A,A,C,,,C,Public
+Neuroticism,Ruhuna,1.48,Engineering,Hambantota,A,A,A,B,A,,B,Public
+Neuroticism,Open University,0.035,Biological Science,Matara,A,A,A,S,B,A,S,Public
+Neuroticism,Moratuwa,1.656,IT,Hambantota,A,A,C,A,,A,B,Public
+Neuroticism,Open University,1.555,IT,Gampaha,A,A,A,B,,A,B,Public
+Open,Moratuwa,1.861,Engineering,Colombo,A,A,A,A,,A,,Public
+Open,Moratuwa,1.871,Engineering,Colombo,A,A,A,A,,A,A,Public
+Open,Moratuwa,1.871,Engineering,Colombo,A,A,A,A,,A,A,Public
+Open,Moratuwa,1.862,Engineering,Colombo,A,A,A,A,,A,A,Public
+Open,Moratuwa,1.852,Engineering,Colombo,A,A,A,A,,A,A,Public
+Open,Moratuwa,1.892,Engineering,Colombo,A,A,A,A,,A,A,Public
+Open,Moratuwa,1.962,Engineering,Colombo,A,A,A,A,,A,A,Public
+Open,Moratuwa,1.972,Engineering,Colombo,A,A,A,A,,A,A,Public
+Open,Moratuwa,1.802,Engineering,Colombo,A,A,A,A,,A,A,Public
+Open,Moratuwa,1.806,Engineering,Colombo,A,A,A,A,,A,A,Public
+Open,Moratuwa,1.807,Engineering,Colombo,A,A,A,A,,A,A,Public
+Open,Moratuwa,1.827,Engineering,Colombo,A,A,A,A,,A,A,Public
+Open,Moratuwa,1.878,Engineering,Colombo,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.872,Engineering,Galle,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.872,Engineering,Galle,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.873,Engineering,Galle,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.972,Engineering,Galle,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.975,Engineering,Galle,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.876,Engineering,Galle,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.875,Engineering,Galle,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.876,Engineering,Galle,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.874,Engineering,Galle,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.876,Engineering,Galle,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.872,Engineering,Matara,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.878,Engineering,Matara,A,A,B,A,,A,A,Public
+Open,Moratuwa,1.872,Engineering,Matara,A,A,C,A,,A,A,Public
+Open,Moratuwa,1.872,Engineering,Matara,A,A,C,A,,A,A,Public
+Conscientiousness,Moratuwa,1.873,Engineering,Matara,A,A,C,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Matara,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.873,Engineering,Matara,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Matara,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.875,Engineering,Matara,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Matara,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.878,Engineering,Hambantota,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Hambantota,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.846,Engineering,Hambantota,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.872,Engineering,Hambantota,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.877,Engineering,Hambantota,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Hambantota,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.877,Engineering,Rathnapura,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.875,Engineering,Rathnapura,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Rathnapura,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Rathnapura,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Rathnapura,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Rathnapura,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.874,Engineering,Rathnapura,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.873,Engineering,Rathnapura,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.873,Engineering,Gampaha,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Gampaha,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.875,Engineering,Gampaha,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Gampaha,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.878,Engineering,Gampaha,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Gampaha,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.846,Engineering,Gampaha,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.872,Engineering,Gampaha,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.892,Engineering,Anuradhapura,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.893,Engineering,Anuradhapura,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.894,Engineering,Anuradhapura,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.895,Engineering,Anuradhapura,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.893,Engineering,Anuradhapura,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.894,Engineering,Anuradhapura,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.897,Engineering,Anuradhapura,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.893,Engineering,Anuradhapura,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.896,Engineering,Anuradhapura,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.873,Engineering,Monaragala,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.874,Engineering,Monaragala,A,A,B,A,,A,A,Public
+Conscientiousness,Moratuwa,1.875,Engineering,Monaragala,A,A,C,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Monaragala,A,A,C,A,,A,A,Public
+Conscientiousness,Moratuwa,1.877,Engineering,Monaragala,A,A,C,A,,A,A,Public
+Conscientiousness,Moratuwa,1.877,Engineering,Monaragala,A,A,A,A,,A,A,Public
+Conscientiousness,Moratuwa,1.876,Engineering,Monaragala,A,A,A,A,,B,A,Public
+Conscientiousness,Moratuwa,1.873,Engineering,Monaragala,A,A,A,A,,B,A,Public
+Conscientiousness,Moratuwa,1.874,Engineering,Monaragala,C,A,A,A,,B,A,Public
+Conscientiousness,Moratuwa,1.631,IT,Colombo,A,A,A,A,,B,A,Public
+Conscientiousness,Moratuwa,1.634,IT,Colombo,A,A,A,A,,B,A,Public
+Conscientiousness,Moratuwa,1.634,IT,Colombo,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.674,IT,Colombo,B,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.678,IT,Colombo,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.645,IT,Colombo,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.647,IT,Colombo,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.636,IT,Colombo,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.638,IT,Colombo,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.639,IT,Colombo,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.639,IT,Colombo,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.699,IT,Colombo,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.667,IT,Colombo,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.689,IT,Galle,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.637,IT,Galle,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.639,IT,Galle,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.689,IT,Galle,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.678,IT,Galle,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.683,IT,Galle,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.639,IT,Galle,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.646,IT,Galle,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.667,IT,Galle,A,A,B,A,,B,C,Public
+Open,Moratuwa,1.689,IT,Galle,A,A,B,B,,B,C,Public
+Open,Moratuwa,1.634,IT,Matara,A,A,B,B,,B,C,Public
+Open,Moratuwa,1.635,IT,Matara,A,A,B,B,,B,C,Public
+Open,Moratuwa,1.636,IT,Matara,B,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.684,IT,Matara,B,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.639,IT,Matara,B,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.638,IT,Matara,B,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.638,IT,Matara,B,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.634,IT,Matara,B,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.646,IT,Matara,B,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.647,IT,Matara,B,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.631,IT,Hambantota,B,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.634,IT,Hambantota,A,A,C,A,,B,C,Public
+Conscientiousness,Moratuwa,1.636,IT,Hambantota,A,A,C,A,,B,C,Public
+Conscientiousness,Moratuwa,1.654,IT,Hambantota,A,A,C,A,,B,C,Public
+Open,Moratuwa,1.652,IT,Hambantota,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.638,IT,Hambantota,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.524,IT,Rathnapura,B,A,A,A,,B,C,Public
+Open,Moratuwa,1.534,IT,Rathnapura,B,A,A,A,,B,C,Public
+Open,Moratuwa,1.632,IT,Rathnapura,B,A,A,A,,B,C,Public
+Open,Moratuwa,1.545,IT,Rathnapura,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.538,IT,Rathnapura,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.532,IT,Rathnapura,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.538,IT,Rathnapura,B,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.568,IT,Rathnapura,B,A,A,A,,B,C,Public
+Open,Moratuwa,1.547,IT,Gampaha,B,A,A,A,,B,C,Public
+Open,Moratuwa,1.548,IT,Gampaha,B,A,A,A,,B,C,Public
+Open,Moratuwa,1.542,IT,Gampaha,B,A,A,A,,B,C,Public
+Open,Moratuwa,1.543,IT,Gampaha,B,A,A,A,,B,C,Public
+Open,Moratuwa,1.548,IT,Gampaha,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.598,IT,Gampaha,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.587,IT,Gampaha,A,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.578,IT,Gampaha,A,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.442,IT,Anuradhapura,A,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.421,IT,Anuradhapura,A,A,B,A,,B,C,Public
+Conscientiousness,Moratuwa,1.433,IT,Anuradhapura,A,A,C,A,,B,C,Public
+Conscientiousness,Moratuwa,1.446,IT,Anuradhapura,A,A,C,A,,B,C,Public
+Conscientiousness,Moratuwa,1.482,IT,Anuradhapura,B,A,C,A,,B,C,Public
+Conscientiousness,Moratuwa,1.483,IT,Anuradhapura,B,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.472,IT,Anuradhapura,B,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.467,IT,Anuradhapura,B,A,A,A,,B,C,Public
+Conscientiousness,Moratuwa,1.468,IT,Anuradhapura,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.321,IT,Monaragala,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.345,IT,Monaragala,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.358,IT,Monaragala,A,A,A,A,,B,B,Public
+Open,Moratuwa,1.346,IT,Monaragala,A,A,A,A,,B,B,Public
+Conscientiousness,Moratuwa,1.423,IT,Monaragala,A,A,A,A,,B,B,Public
+Conscientiousness,Moratuwa,1.346,IT,Monaragala,A,A,A,A,,B,B,Public
+Conscientiousness,Moratuwa,1.346,IT,Monaragala,A,A,A,A,,B,B,Public
+Conscientiousness,Moratuwa,1.346,IT,Monaragala,A,A,A,A,,B,B,Public
+Conscientiousness,Moratuwa,1.364,IT,Monaragala,A,A,A,A,,B,B,Public
+Conscientiousness,Moratuwa,1.242,Architecture,Colombo,A,A,A,A,,B,B,Public
+Conscientiousness,Moratuwa,1.242,Architecture,Colombo,A,A,B,A,,B,B,Public
+Conscientiousness,Moratuwa,1.247,Architecture,Colombo,A,A,B,A,,B,B,Public
+Agreeableness,Moratuwa,1.245,Architecture,Colombo,A,A,B,A,,B,B,Public
+Agreeableness,Moratuwa,1.345,Architecture,Colombo,A,A,B,A,,B,B,Public
+Agreeableness,Moratuwa,1.269,Architecture,Colombo,A,A,B,A,,B,C,Public
+Agreeableness,Moratuwa,1.279,Architecture,Colombo,A,A,B,A,,B,C,Public
+Agreeableness,Moratuwa,1.289,Architecture,Colombo,A,A,B,A,,B,C,Public
+Agreeableness,Moratuwa,1.279,Architecture,Colombo,A,A,C,A,,B,C,Public
+Open,Moratuwa,1.289,Architecture,Colombo,A,A,C,A,,B,C,Public
+Open,Moratuwa,1.273,Architecture,Colombo,A,A,C,A,,B,C,Public
+Open,Moratuwa,1.236,Architecture,Colombo,A,A,C,A,,B,C,Public
+Open,Moratuwa,1.364,Architecture,Colombo,A,A,A,A,,B,C,Public
+Open,Moratuwa,0.983,Architecture,Galle,A,A,A,A,,B,C,Public
+Open,Moratuwa,0.999,Architecture,Galle,A,A,A,A,,B,C,Public
+Open,Moratuwa,1.123,Architecture,Galle,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,1.124,Architecture,Galle,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,1.124,Architecture,Galle,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,1.022,Architecture,Galle,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,1.033,Architecture,Galle,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,0.046,Architecture,Galle,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,0.987,Architecture,Galle,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,1.099,Architecture,Galle,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,0.926,Architecture,Matara,A,A,A,A,,B,C,Public
+Open,Moratuwa,0.924,Architecture,Matara,A,A,B,A,,B,C,Public
+Open,Moratuwa,0.948,Architecture,Matara,A,A,B,A,,B,C,Public
+Open,Moratuwa,0.942,Architecture,Matara,A,A,B,A,,B,C,Public
+Open,Moratuwa,0.953,Architecture,Matara,A,A,B,A,,B,C,Public
+Open,Moratuwa,0.962,Architecture,Matara,A,A,A,A,,B,C,Public
+Open,Moratuwa,0.964,Architecture,Matara,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,0.978,Architecture,Matara,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,0.987,Architecture,Matara,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,0.968,Architecture,Matara,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,0.356,Architecture,Anuradhapura,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,0.57,Architecture,Anuradhapura,A,A,A,A,,B,C,Public
+Agreeableness,Moratuwa,0.368,Architecture,Anuradhapura,A,A,A,B,,B,C,Public
+Agreeableness,Moratuwa,0.364,Architecture,Anuradhapura,A,A,A,B,,B,A,Public
+Agreeableness,Moratuwa,0.348,Architecture,Anuradhapura,A,A,A,B,,B,A,Public
+Agreeableness,Moratuwa,0.364,Architecture,Anuradhapura,A,A,A,B,,A,A,Public
+Open,Moratuwa,0.461,Architecture,Rathnapura,A,A,A,B,,A,A,Public
+Open,Moratuwa,0.462,Architecture,Rathnapura,A,A,A,B,,A,A,Public
+Open,Moratuwa,0.483,Architecture,Rathnapura,A,A,C,B,,A,A,Public
+Open,Moratuwa,0.469,Architecture,Rathnapura,A,A,B,B,,A,A,Public
+Open,Moratuwa,0.478,Architecture,Rathnapura,A,A,B,B,,A,A,Public
+Open,Moratuwa,0.492,Architecture,Rathnapura,A,A,B,B,,A,A,Public
+Open,Moratuwa,0.472,Architecture,Rathnapura,A,A,B,B,,A,A,Public
+Open,Moratuwa,0.436,Architecture,Rathnapura,A,A,B,B,,A,A,Public
+Open,Moratuwa,1.056,Architecture,Gampaha,A,A,B,B,,A,A,Public
+Open,Moratuwa,1.046,Architecture,Gampaha,A,A,B,B,,A,A,Public
+Open,Moratuwa,1.076,Architecture,Gampaha,A,A,B,B,,A,A,Public
+Open,Moratuwa,1.089,Architecture,Gampaha,A,A,B,A,,C,A,Public
+Open,Moratuwa,1.078,Architecture,Gampaha,A,A,B,A,,C,A,Public
+Open,Moratuwa,1.102,Architecture,Gampaha,A,A,B,A,,C,A,Public
+Agreeableness,Moratuwa,1.106,Architecture,Gampaha,A,A,B,A,,C,A,Public
+Agreeableness,Moratuwa,1.096,Architecture,Gampaha,A,A,B,A,,C,A,Public
+Agreeableness,Moratuwa,1.069,Architecture,Anuradhapura,A,A,B,A,,C,A,Public
+Agreeableness,Moratuwa,1.086,Architecture,Anuradhapura,A,A,B,A,,C,A,Public
+Agreeableness,Moratuwa,1.102,Architecture,Anuradhapura,A,A,B,A,,C,A,Public
+Agreeableness,Moratuwa,1.106,Architecture,Anuradhapura,A,A,B,A,,C,A,Public
+Agreeableness,Moratuwa,1.096,Architecture,Anuradhapura,A,A,B,A,,C,A,Public
+Agreeableness,Moratuwa,1.069,Architecture,Anuradhapura,A,A,B,B,,B,A,Public
+Agreeableness,Moratuwa,1.086,Architecture,Anuradhapura,A,A,B,B,,B,A,Public
+Agreeableness,Moratuwa,1.059,Architecture,Anuradhapura,A,A,B,B,,B,A,Public
+Agreeableness,Moratuwa,1.068,Architecture,Anuradhapura,B,A,B,B,,B,A,Public
+Agreeableness,Moratuwa,0.854,Architecture,Kalutara,B,A,A,B,,B,A,Public
+Agreeableness,Moratuwa,0.856,Architecture,Kalutara,B,A,A,B,,B,A,Public
+Agreeableness,Moratuwa,0.867,Architecture,Kalutara,B,A,A,B,,B,A,Public
+Agreeableness,Moratuwa,0.869,Architecture,Kalutara,A,A,A,B,,B,A,Public
+Agreeableness,Moratuwa,0.879,Architecture,Kalutara,A,A,A,B,,B,A,Public
+Agreeableness,Moratuwa,0.876,Architecture,Kalutara,A,A,A,B,,B,A,Public
+Agreeableness,Moratuwa,0.896,Architecture,Kalutara,A,A,A,B,,B,A,Public
+Conscientiousness,Moratuwa,0.867,Architecture,Kalutara,A,A,A,B,,A,A,Public
+Conscientiousness,Moratuwa,0.882,Architecture,Kalutara,A,A,A,B,,A,A,Public
+Conscientiousness,Moratuwa,0.887,Architecture,Kalutara,A,A,A,B,,A,A,Public
+Conscientiousness,Moratuwa,0.869,Architecture,Kalutara,A,A,A,B,,A,A,Public
+Conscientiousness,Moratuwa,0.869,Architecture,Kalutara,A,A,A,B,,A,A,Public
+Conscientiousness,Moratuwa,0.877,Architecture,Kalutara,A,A,A,B,,A,B,Public
+Agreeableness,Ruhuna,1.301,Biological Science,Hambantota,B,B,A,F,F,A,A,Public
+Agreeableness,Ruhuna,1.302,Biological Science,Colombo,A,A,A,F,A,A,C,Public
+Agreeableness,Ruhuna,1.38,Biological Science,Colombo,C,C,C,,S,B,C,Public
+Agreeableness,Ruhuna,1.38,Biological Science,Colombo,C,C,C,,S,B,C,Public
+Conscientiousness,Ruhuna,1.922,Medicine,Colombo,A,A,S,,A,B,A,Public
+Conscientiousness,Ruhuna,1.928,Medicine,Colombo,B,A,A,,A,A,B,Public
+Conscientiousness,Ruhuna,1.892,Medicine,Colombo,A,A,A,,A,B,A,Public
+Conscientiousness,Ruhuna,2.001,Medicine,Colombo,A,A,A,,A,B,A,Public
+Conscientiousness,Ruhuna,2.003,Medicine,Colombo,A,B,A,,A,B,A,Public
+Conscientiousness,Ruhuna,1.892,Medicine,Mathara,A,A,B,,A,A,A,Public
+Conscientiousness,Ruhuna,1.802,Medicine,Galle,A,A,A,,A,B,B,Public
+Conscientiousness,Ruhuna,1.801,Medicine,Mathara,B,A,A,,A,A,A,Public
+Conscientiousness,Ruhuna,1.932,Medicine,Gampaha,A,A,B,,A,B,A,Public
+Conscientiousness,Ruhuna,1.952,Medicine,Gampaha,A,A,B,,A,B,A,Public
+Conscientiousness,Ruhuna,1.872,Medicine,Mathara,A,A,A,,A,A,B,Public
+Conscientiousness,Ruhuna,1.832,Medicine,Mathara,A,A,A,,A,A,B,Public
+Conscientiousness,Ruhuna,1.956,Medicine,Galle,A,A,A,,A,A,B,Public
+Conscientiousness,Ruhuna,1.942,Medicine,Colombo,A,A,A,,A,A,A,Public
+Conscientiousness,Ruhuna,1.904,Medicine,Gampaha,A,A,A,,A,A,B,Public
+Conscientiousness,Ruhuna,1.759,Medicine,Hambantota,A,A,A,,A,A,B,Public
+Conscientiousness,Ruhuna,1.901,Medicine,Gampaha,A,A,A,,A,B,B,Public
+Conscientiousness,Ruhuna,2.001,Medicine,Colombo,A,A,A,,A,A,B,Public
+Conscientiousness,Ruhuna,1.799,Medicine,Hambantota,A,A,A,,A,B,A,Public
+Conscientiousness,Ruhuna,1.794,Medicine,Hambantota,A,A,A,,A,A,B,Public
+Conscientiousness,Ruhuna,1.945,Medicine,Colombo,A,A,A,,A,B,A,Public
+Conscientiousness,Ruhuna,1.895,Medicine,Kalutara,A,A,A,,A,B,A,Public
+Conscientiousness,Ruhuna,1.832,Medicine,Monaragala,A,A,B,,B,A,B,Public
+Conscientiousness,Ruhuna,1.892,Medicine,Monaragala,A,A,C,,B,A,A,Public
+Agreeableness,Ruhuna,1.759,Medicine,Monaragala,A,A,C,,B,B,A,Public
+Agreeableness,Ruhuna,1.899,Medicine,Monaragala,A,A,C,,B,A,B,Public
+Agreeableness,Ruhuna,1.924,Medicine,Monaragala,A,A,S,,B,B,A,Public
+Agreeableness,Ruhuna,1.799,Medicine,Monaragala,A,A,S,,B,A,B,Public
+Agreeableness,Ruhuna,1.855,Medicine,Monaragala,A,A,A,,B,B,A,Public
+Agreeableness,Ruhuna,1.834,Medicine,Monaragala,A,A,A,,B,A,B,Public
+Agreeableness,Ruhuna,1.678,Medicine,Monaragala,A,A,A,,B,B,B,Public
+Agreeableness,Ruhuna,1.699,Medicine,Monaragala,A,A,A,,A,B,A,Public
+Agreeableness,Ruhuna,1.678,Medicine,Monaragala,A,A,A,,B,B,A,Public
+Agreeableness,Ruhuna,1.699,Medicine,Monaragala,A,B,A,,A,B,B,Public
+Conscientiousness,Ruhuna,1.598,Medicine,Monaragala,A,A,B,,A,A,A,Public
+Conscientiousness,Ruhuna,1.678,Medicine,Monaragala,A,A,B,,A,A,A,Public
+Conscientiousness,Ruhuna,1.689,Medicine,Monaragala,A,A,B,,A,B,A,Public
+Conscientiousness,Ruhuna,1.679,Medicine,Monaragala,A,A,B,,B,B,A,Public
+Conscientiousness,Ruhuna,1.398,Biological Science,Colombo,A,,B,,B,C,A,Public
+Conscientiousness,Ruhuna,1.399,Biological Science,Colombo,A,A,A,,B,C,A,Public
+Conscientiousness,Ruhuna,1.398,Biological Science,Colombo,B,A,A,,B,C,B,Public
+Agreeableness,Ruhuna,1.398,Biological Science,Colombo,B,A,A,,B,C,B,Public
+Agreeableness,Ruhuna,1.394,Biological Science,Colombo,A,A,A,,B,C,B,Public
+Agreeableness,Ruhuna,1.394,Biological Science,Colombo,A,A,A,,B,C,B,Public
+Agreeableness,Ruhuna,1.394,Biological Science,Colombo,A,A,A,,B,C,B,Public
+Agreeableness,Ruhuna,1.424,Biological Science,Colombo,A,A,A,,B,C,B,Public
+Agreeableness,Ruhuna,1.432,Biological Science,Colombo,A,A,A,,B,C,B,Public
+Agreeableness,Ruhuna,1.367,Biological Science,Galle,A,A,A,,B,C,B,Public
+Agreeableness,Ruhuna,1.368,Biological Science,Galle,A,A,A,,A,C,B,Public
+Agreeableness,Ruhuna,1.369,Biological Science,Galle,A,A,A,,A,C,C  ,Public
+,Ruhuna,1.378,Biological Science,Galle,A,A,A,,A,C,C,Public
+,Ruhuna,1.372,Biological Science,Galle,B,A,A,,A,C,C,Public
+,Ruhuna,1.376,Biological Science,Galle,B,A,A,,A,C,C,Public
+,Ruhuna,1.371,Biological Science,Matara,B,A,A,,A,B,C,Public
+,Ruhuna,1.379,Biological Science,Matara,B,A,A,,A,B,C,Public
+,Ruhuna,1.378,Biological Science,Matara,B,A,A,,A,B,C,Public
+,Ruhuna,1.379,Biological Science,Matara,B,A,A,,A,B,C,Public
+,Ruhuna,1.389,Biological Science,Matara,A,A,A,,B,C,B,Public
+,Ruhuna,1.381,Biological Science,Matara,A,A,A,,B,C,B,Public
+,Ruhuna,1.384,Biological Science,Matara,A,A,A,,B,C,B,Public
+,Ruhuna,1.369,Biological Science,Gampaha,A,A,A,,B,C,B,Public
+,Ruhuna,1.371,Biological Science,Gampaha,A,A,A,,B,C,B,Public
+,Ruhuna,1.372,Biological Science,Gampaha,A,A,A,,B,C,B,Public
+,Ruhuna,1.376,Biological Science,Gampaha,A,A,A,,B,C,B,Public
+,Ruhuna,1.379,Biological Science,Gampaha,A,A,A,,B,C,B,Public
+,Ruhuna,1.378,Biological Science,Gampaha,A,A,B,,B,C,B,Public
+,Ruhuna,1.374,Biological Science,Gampaha,A,A,B,,B,C,B,Public
+,Ruhuna,1.374,Biological Science,Gampaha,A,A,B,,B,C,B,Public
+,Ruhuna,1.386,Biological Science,Gampaha,A,A,B,,B,C,B,Public
+,Ruhuna,1.372,Biological Science,Hambantota,A,A,B,,B,C,B,Public
+,Ruhuna,1.373,Biological Science,Hambantota,A,A,B,,B,C,B,Public
+,Ruhuna,1.374,Biological Science,Hambantota,A,A,A,,B,C,B,Public
+,Ruhuna,1.379,Biological Science,Hambantota,A,A,A,,B,C,B,Public
+,Ruhuna,1.375,Biological Science,Hambantota,A,A,A,,B,C,B,Public
+,Ruhuna,1.376,Biological Science,Hambantota,A,A,A,,B,C,B,Public
+,Ruhuna,1.381,Biological Science,Hambantota,A,A,A,,A,C,B,Public
+,Ruhuna,1.382,Biological Science,Hambantota,A,A,A,,A,C,B,Public
+,Ruhuna,1.381,Biological Science,Hambantota,A,A,A,,A,C,B,Public
+,Ruhuna,1.384,Biological Science,Hambantota,A,A,A,,A,C,B,Public
+,Ruhuna,1.385,Biological Science,Hambantota,A,A,A,,A,C,C,Public
+,Ruhuna,1.386,Biological Science,Hambantota,A,A,A,,A,C,C,Public
+,Ruhuna,1.428,Biological Science,Colombo,A,,A,-,A,C,C,Public
+,Ruhuna,1.438,Biological Science,Colombo,A,A,A,,A,C,C,Public
+,Ruhuna,1.434,Biological Science,Colombo,B,A,A,,B,C,C,Public
+,Ruhuna,1.435,Biological Science,Colombo,B,A,A,,B,C,C,Public
+,Ruhuna,1.394,Biological Science,Colombo,A,A,A,,B,C,C,Public
+,Ruhuna,1.394,Biological Science,Colombo,A,A,A,,B,C,C,Public
+,Ruhuna,1.394,Biological Science,Colombo,A,A,A,,B,C,C,Public
+,Ruhuna,1.424,Biological Science,Colombo,A,A,A,,B,C,C,Public
+,Ruhuna,1.432,Biological Science,Colombo,A,A,A,,B,C,C,Public
+,Ruhuna,1.367,Biological Science,Galle,A,A,C,,A,C,C,Public
+,Ruhuna,1.368,Biological Science,Galle,A,A,C,,A,C,C,Public
+,Ruhuna,1.369,Biological Science,Galle,A,A,C,,A,C,C,Public
+,Ruhuna,1.378,Biological Science,Galle,A,A,B,,A,C,C,Public
+,Ruhuna,1.372,Biological Science,Galle,B,A,B,,A,C,C,Public
+,Ruhuna,1.376,Biological Science,Galle,B,A,B,,A,C,C,Public
+,Ruhuna,1.371,Biological Science,Matara,B,A,B,,A,C,C,Public
+,Ruhuna,1.379,Biological Science,Matara,B,A,B,,A,C,C,Public
+,Ruhuna,1.378,Biological Science,Matara,B,A,B,,A,C,C,Public
+,Ruhuna,1.379,Biological Science,Matara,B,A,B,,A,B,C,Public
+,Ruhuna,1.389,Biological Science,Matara,A,A,B,,A,B,C,Public
+,Ruhuna,1.381,Biological Science,Matara,A,A,A,,A,B,C,Public
+,Ruhuna,1.384,Biological Science,Matara,A,A,A,,A,B,C,Public
+,Ruhuna,1.369,Biological Science,Gampaha,A,A,A,,A,B,C,Public
+,Ruhuna,1.371,Biological Science,Gampaha,A,A,A,,A,B,C,Public
+,Ruhuna,1.372,Biological Science,Gampaha,A,A,A,,A,B,C,Public
+,Ruhuna,1.376,Biological Science,Gampaha,A,A,A,,A,B,C,Public
+,Ruhuna,1.379,Biological Science,Gampaha,A,A,A,,B,B,C,Public
+,Ruhuna,1.378,Biological Science,Gampaha,A,A,A,,B,B,C,Public
+,Ruhuna,1.374,Biological Science,Gampaha,A,A,A,,B,B,C,Public
+,Ruhuna,1.374,Biological Science,Gampaha,A,A,A,,B,B,C,Public
+,Ruhuna,1.371,Biological Science,Gampaha,A,A,A,,B,B,C,Public
+,Ruhuna,1.372,Biological Science,Hambantota,A,A,A,,B,B,C,Public
+,Ruhuna,1.373,Biological Science,Hambantota,A,A,B,,B,B,C,Public
+,Ruhuna,1.374,Biological Science,Hambantota,A,A,B,,B,B,C,Public
+,Ruhuna,1.379,Biological Science,Hambantota,A,A,B,,B,B,C,Public
+,Ruhuna,1.375,Biological Science,Hambantota,A,A,B,,B,B,C,Public
+,Ruhuna,1.376,Biological Science,Hambantota,A,A,B,,B,B,C,Public
+,Ruhuna,1.381,Biological Science,Rathnapura,A,A,B,,B,B,C,Public
+,Ruhuna,1.382,Biological Science,Rathnapura,A,A,B,,B,C,B,Public
+,Ruhuna,1.396,Biological Science,Rathnapura,A,A,B,,B,C,B,Public
+,Ruhuna,1.394,Biological Science,Rathnapura,A,A,B,,B,C,B,Public
+,Ruhuna,1.395,Biological Science,Rathnapura,A,A,A,,B,C,B,Public
+,Ruhuna,1.396,Biological Science,Rathnapura,A,A,A,,B,C,C,Public
+,Ruhuna,1.397,Biological Science,Rathnapura,A,A,A,,A,C,B,Public
+,Ruhuna,1.398,Biological Science,Rathnapura,A,A,A,,A,C,B,Public
+,Ruhuna,1.399,Biological Science,Rathnapura,A,A,A,,A,B,B,Public
+,Ruhuna,1.423,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.456,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.412,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.413,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.414,Biological Science,Rathnapura,A,A,B,,B,B,C,Public
+,Ruhuna,1.415,Biological Science,Rathnapura,A,A,B,,B,B,C,Public
+,Ruhuna,1.394,Biological Science,Monaragala,A,A,B,,B,B,C,Public
+,Ruhuna,1.383,Biological Science,Monaragala,B,A,B,,B,B,C,Public
+,Ruhuna,1.384,Biological Science,Monaragala,B,A,B,,B,B,C,Public
+,Ruhuna,1.385,Biological Science,Monaragala,A,A,B,,B,B,C,Public
+,Ruhuna,1.386,Biological Science,Monaragala,B,A,B,,B,B,C,Public
+,Ruhuna,1.126,Biological Science,Colombo,B,A,B,,B,B,C,Public
+,Ruhuna,1.127,Biological Science,Colombo,B,A,B,,B,B,C,Public
+,Ruhuna,1.128,Biological Science,Colombo,B,A,B,,B,B,C,Public
+,Ruhuna,1.129,Biological Science,Colombo,A,A,C,,A,B,C,Public
+,Ruhuna,1.369,Biological Science,Galle,A,A,C,,A,B,C,Public
+,Ruhuna,1.378,Biological Science,Galle,A,A,C,,A,C,C,Public
+,Ruhuna,1.372,Biological Science,Galle,A,A,C,,A,C,C,Public
+,Ruhuna,1.396,Biological Science,Rathnapura,A,A,C,,A,C,C,Public
+,Ruhuna,1.394,Biological Science,Rathnapura,B,A,C,,A,B,C,Public
+,Ruhuna,1.395,Biological Science,Rathnapura,B,A,C,,A,B,C,Public
+,Ruhuna,1.396,Biological Science,Rathnapura,B,A,C,,A,B,C,Public
+,Ruhuna,1.397,Biological Science,Rathnapura,B,A,C,,A,B,C,Public
+,Ruhuna,1.398,Biological Science,Rathnapura,B,A,B,,A,B,C,Public
+,Ruhuna,1.399,Biological Science,Rathnapura,B,A,B,,B,B,B,Public
+,Ruhuna,1.423,Biological Science,Rathnapura,A,A,B,,B,B,B,Public
+,Ruhuna,1.456,Biological Science,Rathnapura,A,A,B,,B,B,B,Public
+,Ruhuna,1.412,Biological Science,Rathnapura,A,A,B,,B,B,B,Public
+,Ruhuna,1.413,Biological Science,Rathnapura,A,A,B,,A,B,B,Public
+,Ruhuna,1.414,Biological Science,Rathnapura,A,A,B,,A,B,C,Public
+,Ruhuna,1.415,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.456,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.396,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.394,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.396,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.432,Biological Science,Rathnapura,A,A,A,,B,B,B,Public
+,Ruhuna,1.435,Biological Science,Rathnapura,A,A,A,,B,B,B,Public
+,Ruhuna,1.423,Biological Science,Rathnapura,A,A,A,,B,B,B,Public
+,Ruhuna,1.396,Biological Science,Rathnapura,A,A,A,,B,B,B,Public
+,Ruhuna,1.394,Biological Science,Rathnapura,A,A,A,,B,B,C,Public
+,Ruhuna,1.396,Biological Science,Rathnapura,A,A,A,,B,B,C,Public
+,Ruhuna,1.432,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.396,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.394,Biological Science,Rathnapura,A,A,A,,A,B,C,Public
+,Ruhuna,1.396,Biological Science,Rathnapura,A,A,A,,A,C,B,Public
+,Ruhuna,1.432,Biological Science,Rathnapura,A,A,A,,A,C,B,Public
+,Ruhuna,1.394,Biological Science,Rathnapura,A,A,A,,A,C,B,Public
+,Ruhuna,1.383,Biological Science,Monaragala,A,A,C,,A,C,B,Public
+,Ruhuna,1.384,Biological Science,Monaragala,B,A,C,,A,C,B,Public
+,Ruhuna,1.385,Biological Science,Monaragala,B,A,C,,A,C,B,Public
+,Ruhuna,1.386,Biological Science,Monaragala,A,A,C,,A,C,B,Public
+,Ruhuna,1.389,Biological Science,Monaragala,B,A,C,,A,C,B,Public
+,Ruhuna,1.388,Biological Science,Monaragala,B,A,B,,A,C,B,Public
+Extraversion ,Ruhuna,1.126,Physical Science,Colombo,A,A,B,B,,C,C,Public
+Extraversion ,Ruhuna,1.127,Physical Science,Colombo,A,A,B,B,,C,C,Public
+Extraversion ,Ruhuna,1.128,Physical Science,Colombo,A,A,A,B,,B,C,Public
+Extraversion ,Ruhuna,1.129,Physical Science,Colombo,A,A,A,B,,B,C,Public
+Open,Ruhuna,1.128,Physical Science,Colombo,A,A,A,B,,B,C,Public
+Open,Ruhuna,1.131,Physical Science,Colombo,A,A,A,B,,B,C,Public
+Open,Ruhuna,1.132,Physical Science,Colombo,A,A,A,B,,B,C,Public
+Open,Ruhuna,1.324,Physical Science,Colombo,A,A,A,B,,B,C,Public
+Open,Ruhuna,1.116,Physical Science,Hambantota,A,A,A,B,,B,C,Public
+Extraversion ,Ruhuna,1.114,Physical Science,Hambantota,A,A,A,B,,A,C,Public
+Extraversion ,Ruhuna,1.115,Physical Science,Hambantota,A,A,A,B,,A,C,Public
+Extraversion ,Ruhuna,1.116,Physical Science,Hambantota,A,A,A,B,,A,C,Public
+Extraversion ,Ruhuna,1.117,Physical Science,Hambantota,A,A,A,B,,A,C,Public
+Extraversion ,Ruhuna,1.118,Physical Science,Hambantota,A,A,A,B,,A,C,Public
+Open,Ruhuna,1.119,Physical Science,Hambantota,B,A,B,B,,B,C,Public
+Open,Ruhuna,1.123,Physical Science,Hambantota,B,A,B,A,,B,C,Public
+Open,Ruhuna,1.124,Physical Science,Hambantota,B,A,B,A,,B,C,Public
+Open,Ruhuna,1.123,Physical Science,Ampara,A,A,B,A,,B,C,Public
+Open,Ruhuna,1.124,Physical Science,Ampara,A,A,B,A,,B,C,Public
+Extraversion ,Ruhuna,1.125,Physical Science,Ampara,A,A,B,A,,B,C,Public
+Extraversion ,Ruhuna,1.124,Physical Science,Ampara,A,A,B,A,,B,C,Public
+Extraversion ,Ruhuna,1.126,Physical Science,Ampara,B,A,B,A,,B,C,Public
+Extraversion ,Ruhuna,1.124,Physical Science,Ampara,B,A,B,A,,B,C,Public
+Extraversion ,Ruhuna,1.124,Physical Science,Ampara,B,A,B,A,,B,C,Public
+Extraversion ,Ruhuna,1.125,Physical Science,Rathnapura,B,A,C,A,,B,C,Public
+Extraversion ,Ruhuna,1.125,Physical Science,Rathnapura,A,A,C,A,,C,C,Public
+Extraversion ,Ruhuna,1.125,Physical Science,Rathnapura,A,A,A,A,,C,C,Public
+Extraversion ,Ruhuna,1.125,Physical Science,Rathnapura,A,A,A,A,,C,C,Public
+Open,Ruhuna,1.126,Physical Science,Rathnapura,A,A,A,C,,C,B,Public
+Open,Ruhuna,1.127,Physical Science,Rathnapura,A,A,A,C,,C,B,Public
+Open,Ruhuna,1.159,Physical Science,Monaragala,A,A,A,C,,C,B,Public
+Open,Ruhuna,1.159,Physical Science,Monaragala,A,A,A,C,,C,B,Public
+Open,Ruhuna,1.161,Physical Science,Monaragala,A,A,A,C,,C,B,Public
+Extraversion ,Ruhuna,1.162,Physical Science,Monaragala,A,A,A,C,,C,B,Public
+Extraversion ,Ruhuna,1.162,Physical Science,Monaragala,A,A,A,C,,C,B,Public
+Extraversion ,Ruhuna,1.163,Physical Science,Monaragala,A,A,A,C,,C,B,Public
+Extraversion ,Ruhuna,1.131,Physical Science,Matale,A,A,A,C,,C,B,Public
+Extraversion ,Ruhuna,1.131,Physical Science,Matale,A,A,A,C,,C,B,Public
+Extraversion ,Ruhuna,1.131,Physical Science,Matale,A,A,A,C,,C,B,Public
+Extraversion ,Ruhuna,1.131,Physical Science,Matale,A,A,A,B,,C,B,Public
+Extraversion ,Ruhuna,1.132,Physical Science,Matale,A,A,A,B,,C,B,Public
+Extraversion ,Ruhuna,1.132,Physical Science,Matale,A,A,A,B,,C,B,Public
+Open,Ruhuna,1.132,Physical Science,Matale,A,A,A,B,,C,B,Public
+Open,Ruhuna,1.131,Physical Science,Matale,A,A,A,B,,C,B,Public
+Open,Ruhuna,1.131,Physical Science,Matale,A,A,A,B,,C,B,Public
+Open,Ruhuna,1.131,Physical Science,Matale,A,A,A,B,,C,B,Public
+Open,Ruhuna,1.132,Physical Science,Matale,A,A,A,B,,C,B,Public
+Open,Ruhuna,1.131,Physical Science,Matale,A,A,A,A,,C,B,Public
+Open,Ruhuna,1.131,Physical Science,Matale,A,A,A,A,,C,B,Public
+Open,Ruhuna,1.131,Physical Science,Matale,A,A,A,A,,C,B,Public
+Open,Ruhuna,1.132,Physical Science,Matale,B,A,A,A,,C,B,Public
+Extraversion ,Ruhuna,1.321,Physical Science,Matale,B,A,C,A,,C,B,Public
+Extraversion ,Ruhuna,1.321,Physical Science,Matale,B,A,C,A,,C,B,Public
+Extraversion ,Ruhuna,1.123,Physical Science,Ampara,A,A,C,A,,C,B,Public
+Extraversion ,Ruhuna,1.124,Physical Science,Ampara,A,A,C,A,,C,B,Public
+Extraversion ,Ruhuna,1.125,Physical Science,Ampara,A,A,C,A,,C,B,Public
+Extraversion ,Ruhuna,1.124,Physical Science,Ampara,A,A,B,A,,C,B,Public
+Extraversion ,Ruhuna,1.126,Physical Science,Ampara,B,A,B,A,,C,B,Public
+Extraversion ,Ruhuna,1.124,Physical Science,Ampara,B,A,B,A,,C,B,Public
+Extraversion ,Ruhuna,1.123,Physical Science,Ampara,B,A,A,A,,C,B,Public
+Open,Ruhuna,1.125,Physical Science,Rathnapura,B,A,A,A,,C,B,Public
+Open,Ruhuna,1.125,Physical Science,Rathnapura,A,A,A,A,,C,B,Public
+Open,Ruhuna,1.125,Physical Science,Rathnapura,A,A,A,A,,C,B,Public
+Open,Ruhuna,1.125,Physical Science,Rathnapura,A,A,A,B,,C,B,Public
+Open,Ruhuna,1.126,Physical Science,Rathnapura,A,A,A,B,,C,B,Public
+Extraversion ,Ruhuna,1.127,Physical Science,Rathnapura,A,A,A,B,,C,B,Public
+Extraversion ,Ruhuna,1.159,Physical Science,Monaragala,A,A,A,B,,C,B,Public
+Extraversion ,Ruhuna,1.159,Physical Science,Monaragala,A,A,A,B,,C,B,Public
+Extraversion ,Ruhuna,1.159,Physical Science,Monaragala,A,A,A,B,,C,B,Public
+Extraversion ,Ruhuna,1.162,Physical Science,Monaragala,A,A,A,B,,C,B,Public
+Extraversion ,Ruhuna,1.162,Physical Science,Monaragala,A,A,A,B,,C,B,Public
+Extraversion ,Ruhuna,1.163,Physical Science,Monaragala,A,A,A,B,,C,B,Public
+Extraversion ,Ruhuna,1.159,Physical Science,Matale,A,A,A,B,,C,B,Public
+Extraversion ,Ruhuna,1.162,Physical Science,Matale,A,A,B,B,,C,B,Public
+Open,Ruhuna,1.161,Physical Science,Matale,A,A,B,B,,C,B,Public
+Open,Ruhuna,1.163,Physical Science,Matale,A,A,B,B,,C,B,Public
+Open,Ruhuna,1.115,Physical Science,Hambantota,A,A,B,B,,C,B,Public
+Open,Ruhuna,1.116,Physical Science,Hambantota,A,A,B,B,,C,B,Public
+Open,Ruhuna,1.117,Physical Science,Hambantota,A,A,B,B,,C,B,Public
+Open,Ruhuna,1.118,Physical Science,Hambantota,A,A,B,B,,C,B,Public
+Open,Ruhuna,1.119,Physical Science,Hambantota,A,A,B,B,,B,B,Public
+Open,Ruhuna,1.123,Physical Science,Hambantota,A,A,B,B,,B,B,Public
+Extraversion ,Ruhuna,1.123,Physical Science,Hambantota,A,A,B,B,,B,B,Public
+Extraversion ,Ruhuna,1.126,Physical Science,Colombo,A,A,B,B,,B,B,Public
+Extraversion ,Ruhuna,1.127,Physical Science,Colombo,A,A,B,B,,B,B,Public
+Extraversion ,Ruhuna,1.128,Physical Science,Colombo,A,A,B,B,,B,B,Public
+Extraversion ,Ruhuna,1.129,Physical Science,Colombo,B,A,B,B,,B,B,Public
+Extraversion ,Ruhuna,1.128,Physical Science,Colombo,B,A,B,B,,B,C,Public
+Extraversion ,Ruhuna,1.131,Physical Science,Colombo,B,A,B,C,,B,C,Public
+Extraversion ,Ruhuna,1.132,Physical Science,Ampara,A,A,B,C,,B,C,Public
+Extraversion ,Ruhuna,1.324,Physical Science,Ampara,A,A,C,C,,B,C,Public
+Extraversion ,Ruhuna,1.123,Physical Science,Ampara,A,A,C,C,,B,C,Public
+Extraversion ,Ruhuna,1.124,Physical Science,Ampara,A,A,C,C,,B,C,Public
+Extraversion ,Ruhuna,1.125,Physical Science,Ampara,B,A,A,C,,B,C,Public
+Extraversion ,Ruhuna,1.124,Physical Science,Ampara,B,A,A,C,,B,C,Public
+Extraversion ,Ruhuna,1.126,Physical Science,Ampara,B,A,A,C,,B,C,Public
+Open,Ruhuna,1.124,Physical Science,Rathnapura,B,A,A,C,,B,C,Public
+Open,Ruhuna,1.123,Physical Science,Rathnapura,A,A,C,C,,B,C,Public
+Open,Ruhuna,1.125,Physical Science,Rathnapura,A,A,C,C,,B,C,Public
+Open,Ruhuna,1.125,Physical Science,Rathnapura,A,A,C,C,,B,C,Public
+Open,Ruhuna,1.126,Physical Science,Rathnapura,A,A,C,C,,B,C,Public
+Open,Ruhuna,1.127,Physical Science,Rathnapura,A,A,C,C,,A,C,Public
+Open,Ruhuna,1.159,Physical Science,Monaragala,A,A,C,C,,A,C,Public
+Open,Ruhuna,1.159,Physical Science,Monaragala,A,A,A,C,,A,C,Public
+Open,Ruhuna,1.159,Physical Science,Monaragala,A,A,A,C,,A,C,Public
+Open,Ruhuna,1.162,Physical Science,Monaragala,A,A,A,C,,A,C,Public
+Open,Ruhuna,1.162,Physical Science,Monaragala,A,A,A,C,,A,C,Public
+Extraversion ,Ruhuna,1.163,Physical Science,Monaragala,A,A,A,C,,A,C,Public
+Extraversion ,Ruhuna,1.159,Physical Science,Monaragala,A,A,A,C,,A,C,Public
+Extraversion ,Ruhuna,1.159,Physical Science,Monaragala,A,A,A,C,,A,C,Public
+Extraversion ,Ruhuna,1.159,Physical Science,Monaragala,A,A,C,C,,A,C,Public
+Extraversion ,Ruhuna,1.162,Physical Science,Monaragala,A,A,C,C,,A,C,Public
+Extraversion ,Ruhuna,1.115,Physical Science,Hambantota,A,A,C,C,,A,C,Public
+Extraversion ,Ruhuna,1.116,Physical Science,Hambantota,A,A,C,C,,A,C,Public
+Extraversion ,Ruhuna,1.117,Physical Science,Hambantota,A,A,C,C,,A,C,Public
+Extraversion ,Ruhuna,1.118,Physical Science,Hambantota,A,A,C,C,,A,C,Private
+Extraversion ,Ruhuna,1.119,Physical Science,Hambantota,A,C,S,C,,A,C,Private
+Extraversion ,Ruhuna,1.123,Physical Science,Hambantota,A,C,S,C,,A,C,Private
+Extraversion ,Ruhuna,1.123,Physical Science,Hambantota,A,B,S,C,,A,C,Private
+Extraversion ,Ruhuna,1.115,Physical Science,Hambantota,A,B,S,C,,A,C,Private
+Extraversion ,Ruhuna,1.116,Physical Science,Hambantota,A,C,S,C,,A,C,Private
+Extraversion ,Ruhuna,1.117,Physical Science,Hambantota,A,C,S,B,,A,C,Private
+Extraversion ,Ruhuna,1.118,Physical Science,Hambantota,A,B,S,B,,A,C,Private
+Extraversion ,Ruhuna,1.119,Physical Science,Hambantota,A,B,S,B,,A,C,Private
+Extraversion ,Ruhuna,1.123,Physical Science,Hambantota,A,B,S,B,,A,C,Private
+Extraversion ,Ruhuna,1.123,Physical Science,Hambantota,A,B,C,B,,A,C,Private
+Extraversion ,Ruhuna,1.115,Physical Science,Hambantota,A,B,C,B,,A,C,Private
+Extraversion ,Ruhuna,1.116,Physical Science,Hambantota,B,C,S,B,,A,C,Private
+Extraversion ,Ruhuna,1.117,Physical Science,Hambantota,B,C,S,B,,A,C,Private
+Extraversion ,Ruhuna,1.118,Physical Science,Hambantota,B,C,S,B,,A,C,Private
+Open,Ruhuna,1.126,Physical Science,Colombo,A,C,S,B,,A,C,Private
+Open,Ruhuna,1.127,Physical Science,Colombo,A,C,C,B,,A,C,Private
+Open,Ruhuna,1.128,Physical Science,Colombo,C,B,C,B,,A,C,Private
+Open,Ruhuna,1.129,Physical Science,Colombo,C,B,C,B,,A,C,Private
+Open,Ruhuna,1.128,Physical Science,Colombo,C,B,C,B,,A,C,Private
+Open,Ruhuna,1.131,Physical Science,Colombo,C,B,B,B,,A,C,Private
+Open,Ruhuna,1.132,Physical Science,Colombo,C,B,B,B,,A,C,Private
+Open,Ruhuna,1.324,Physical Science,Colombo,C,B,B,B,,A,C,Private
+Open,Ruhuna,1.126,Physical Science,Colombo,C,B,B,B,,A,C,Private
+Extraversion ,Ruhuna,1.127,Physical Science,Colombo,C,B,B,B,,A,C,Private
+Extraversion ,Ruhuna,1.128,Physical Science,Colombo,C,B,B,B,,A,C,Private
+Extraversion ,Ruhuna,1.129,Physical Science,Colombo,B,B,B,B,,A,C,Private
+Extraversion ,Ruhuna,1.128,Physical Science,Colombo,B,B,B,B,,A,C,Private
+Extraversion ,Ruhuna,1.131,Physical Science,Colombo,B,B,B,B,,A,C,Private
+Extraversion ,Ruhuna,1.132,Physical Science,Colombo,B,B,B,B,,A,C,Private
+Extraversion ,Ruhuna,1.132,Physical Science,Colombo,B,B,B,B,,A,C,Public
+Extraversion ,Ruhuna,1.136,Physical Science,Colombo,B,B,B,B,,A,C,Public
+Extraversion ,Ruhuna,1.137,Physical Science,Colombo,B,B,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.139,Physical Science,Colombo,A,B,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.398,Physical Science,Colombo,A,B,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.338,Physical Science,Colombo,A,B,A,B,,B,C,Private
+Extraversion ,Ruhuna,1.336,Physical Science,Rathnapura,A,B,A,B,,C,B,Private
+Extraversion ,Ruhuna,1.394,Physical Science,Rathnapura,A,B,A,B,,C,B,Private
+Extraversion ,Ruhuna,1.395,Physical Science,Rathnapura,A,B,A,B,,C,B,Private
+Extraversion ,Ruhuna,1.396,Physical Science,Rathnapura,A,A,A,B,,C,B,Private
+Extraversion ,Ruhuna,1.397,Physical Science,Rathnapura,A,A,C,B,,C,B,Private
+Open,Ruhuna,1.398,Physical Science,Rathnapura,A,A,C,B,,B,C,Private
+Open,Ruhuna,1.399,Physical Science,Rathnapura,A,A,A,B,,B,C,Private
+Open,Ruhuna,1.423,Physical Science,Rathnapura,A,A,A,B,,B,C,Private
+Open,Ruhuna,1.456,Physical Science,Rathnapura,A,B,A,B,,B,C,Private
+Open,Ruhuna,1.412,Physical Science,Rathnapura,A,B,A,B,,B,C,Private
+Open,Ruhuna,1.336,Physical Science,Rathnapura,A,B,A,B,,B,C,Private
+Open,Ruhuna,1.394,Physical Science,Rathnapura,A,B,C,B,,B,C,Private
+Open,Ruhuna,1.395,Physical Science,Rathnapura,A,A,C,B,,B,C,Private
+Open,Ruhuna,1.396,Physical Science,Rathnapura,A,A,C,B,,B,C,Private
+Open,Ruhuna,1.397,Physical Science,Rathnapura,A,A,C,B,,B,C,Private
+Open,Ruhuna,1.398,Physical Science,Rathnapura,A,A,C,B,,B,C,Private
+Open,Ruhuna,1.399,Physical Science,Rathnapura,B,B,C,B,,B,C,Private
+Open,Ruhuna,1.423,Physical Science,Rathnapura,B,B,A,B,,B,C,Private
+Open,Ruhuna,1.456,Physical Science,Rathnapura,A,B,A,B,,B,C,Private
+Open,Ruhuna,1.412,Physical Science,Rathnapura,A,B,A,B,,B,C,Private
+Open,Ruhuna,1.336,Physical Science,Rathnapura,A,B,A,B,,B,C,Private
+Open,Ruhuna,1.394,Physical Science,Rathnapura,A,A,A,B,,B,C,Private
+Open,Ruhuna,1.395,Physical Science,Rathnapura,A,A,C,B,,B,C,Private
+Open,Ruhuna,1.396,Physical Science,Rathnapura,A,A,C,B,,B,C,Private
+Open,Ruhuna,1.397,Physical Science,Rathnapura,A,A,C,B,,C,C,Private
+Open,Ruhuna,1.398,Physical Science,Rathnapura,A,B,C,B,,C,C,Private
+Open,Ruhuna,1.399,Physical Science,Rathnapura,A,B,A,B,,C,C,Private
+Extraversion ,Ruhuna,1.423,Physical Science,Rathnapura,A,B,A,B,,C,C,Private
+Extraversion ,Ruhuna,1.456,Physical Science,Rathnapura,A,B,A,B,,C,C,Private
+Extraversion ,Ruhuna,1.412,Physical Science,Rathnapura,A,B,A,B,,C,C,Private
+Extraversion ,Ruhuna,1.336,Physical Science,Rathnapura,A,B,A,B,,C,C,Private
+Extraversion ,Ruhuna,1.394,Physical Science,Rathnapura,A,B,A,B,,C,C,Private
+Extraversion ,Ruhuna,1.395,Physical Science,Rathnapura,A,B,A,B,,C,C,Private
+Extraversion ,Ruhuna,1.396,Physical Science,Rathnapura,A,A,A,B,,C,C,Private
+Extraversion ,Ruhuna,1.397,Physical Science,Rathnapura,A,A,A,B,,C,C,Private
+Extraversion ,Ruhuna,1.398,Physical Science,Rathnapura,A,A,A,B,,B,C,Private
+Extraversion ,Ruhuna,1.399,Physical Science,Rathnapura,A,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.423,Physical Science,Rathnapura,A,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.456,Physical Science,Rathnapura,B,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.412,Physical Science,Rathnapura,A,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.399,Physical Science,Rathnapura,A,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.384,Physical Science,Rathnapura,A,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.386,Physical Science,Rathnapura,A,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.364,Physical Science,Rathnapura,A,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.386,Physical Science,Rathnapura,A,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.389,Physical Science,Rathnapura,B,B,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.389,Physical Science,Rathnapura,A,B,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.411,Physical Science,Rathnapura,A,B,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.411,Physical Science,Rathnapura,A,B,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.411,Physical Science,Rathnapura,A,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.411,Physical Science,Rathnapura,A,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.412,Physical Science,Rathnapura,A,A,B,B,,B,C,Private
+Extraversion ,Ruhuna,1.413,Physical Science,Rathnapura,A,A,B,A,,B,C,Private
+Extraversion ,Ruhuna,1.116,Physical Science,Kalutara,A,A,B,A,,B,C,Private
+Extraversion ,Ruhuna,1.115,Physical Science,Kalutara,A,A,B,A,,B,C,Private
+Extraversion ,Ruhuna,1.116,Physical Science,Kalutara,B,C,B,A,,B,C,Private
+Extraversion ,Ruhuna,1.117,Physical Science,Kalutara,B,C,C,A,,C,C,Private
+Extraversion ,Ruhuna,1.118,Physical Science,Kalutara,B,C,C,A,,C,C,Private
+Extraversion ,Ruhuna,1.119,Physical Science,Kalutara,B,C,C,A,,C,C,Private
+Extraversion ,Ruhuna,1.118,Physical Science,Kalutara,B,C,C,A,,C,B ,Private
+Open,Ruhuna,1.117,Physical Science,Kalutara,B,C,C,A,,C,B,Private
+Open,Ruhuna,1.116,Physical Science,Kalutara,B,C,C,A,,C,B,Private
+Open,Ruhuna,1.116,Physical Science,Kalutara,B,C,C,A,,C,B,Private
+Open,Ruhuna,1.119,Physical Science,Kalutara,B,C,C,A,,C,B,Private
+Open,Ruhuna,1.118,Physical Science,Kalutara,B,C,C,A,,C,B,Private
+Open,Ruhuna,1.117,Physical Science,Kalutara,B,C,C,A,,C,C,Private
+Open,Ruhuna,1.116,Physical Science,Kalutara,,,,A,,C,C,Private
+Open,SLIIT,0.03,IT Special,Badulla,B,C,C,S,,S,S,Private
+Open,SLIIT,0.04,IT Special,Batticaloa,B,C,C,S,,S,S,Private
+Open,SLIIT,0.03,IT Special,Jaffna,B,C,C,S,,S,S,Private
+Open,SLIIT,0.002,IT Special,Kagalle,B,B,C,S,,S,S,Private
+Open,SLIIT,0.0003,IT Special,Kilinochchi,B,B,C,S,,S,S,Private
+Open,SLIIT,0.2253,IT Special,Kurunegala,B,C,C,S,,S,S,Private
+Open,SLIIT,0.7802,IT Special,Mannar,B,C,C,S,,S,S,Private
+Open,SLIIT,0.9253,IT Special,Mullaitivu,B,B,C,S,,S,S,Private
+Open,SLIIT,0.1262,IT Special,Nuwara Eliya,B,B,C,S,,S,S,Private
+Open,SLIIT,0.03,IT Special,Polonnaruwa,B,B,S,S,,S,S,Private
+Open,SLIIT,0.04,IT Special,Puttalam,B,B,C,S,,S,S,Private
+Open,SLIIT,0.03,IT Special,Trincomalee,B,B,C,S,,S,S,Private
+Open,SLIIT,0.002,IT Special,Vavuniya,B,C,S,S,,S,S,Private
+Open,SLIIT,0.0003,IT Special,Colombo,B,C,S,S,,S,S,Private
+Open,SLIIT,0.2253,IT Special,Colombo,B,C,S,S,,S,S,Private
+Open,SLIIT,0.7802,IT Special,Colombo,A,C,S,S,,S,S,Private
+Open,SLIIT,0.9253,IT Special,Colombo,A,C,C,S,,S,S,Private
+Open,SLIIT,0.1262,IT Special,Colombo,C,B,C,S,,S,S,Private
+Open,SLIIT,0.03,IT Special,Kalutara,C,B,C,S,,S,S,Private
+Open,SLIIT,0.04,IT Special,Gampaha,C,B,C,S,,S,S,Private
+Open,SLIIT,0.03,IT Special,Matara,B,B,C,S,,S,S,Private
+Open,SLIIT,0.002,IT Special,Kandy,B,B,C,S,,S,C,Private
+Open,SLIIT,0.0003,IT Special,Kandy,B,B,C,S,,S,C,Private
+Open,SLIIT,0.2253,IT Special,Kandy,B,B,C,S,,S,C,Private
+Open,SLIIT,0.7802,IT Special,Colombo,B,B,C,S,,S,C,Private
+Open,SLIIT,0.9253,IT Special,Kandy,B,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.1262,IT Special,Galle,B,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.03,IT Special,Galle,B,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.04,IT Special,Badulla,B,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.03,IT Special,Gampaha,B,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.002,IT Special,Badulla,B,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.0003,IT Special,Batticaloa,B,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.2253,IT Special,Jaffna,C,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.7802,IT Special,Kagalle,C,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.9253,IT Special,Kilinochchi,C,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.1262,IT Special,Kurunegala,A,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.5,IT Special,Mannar,A,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.6,IT Special,Mullaitivu,C,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.8,IT Special,Nuwara Eliya,C,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.52,IT Special,Polonnaruwa,C,A,C,S,,S,S,Private
+Extraversion ,SLIIT,0.63,IT Special,Puttalam,C,A,C,S,,S,S,Private
+Extraversion ,SLIIT,1.5,IT Special,Trincomalee,C,A,C,S,,S,S,Private
+Extraversion ,SLIIT,1.1,IT Special,Vavuniya,C,A,C,S,,S,S,Private
+Extraversion ,SLIIT,1.6,IT Special,Colombo,C,A,C,S,,S,S,Private
+Extraversion ,SLIIT,0.1236,IT Special,Colombo,C,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.4526,IT Special,Colombo,C,B,C,S,,S,S,Private
+Extraversion ,SLIIT,0.42,IT Special,Colombo,C,B,C,S,,S,S,Private
+Agreeableness,SLIIT,0.89,IT Special,Colombo,C,B,C,S,,S,S,Private
+Agreeableness,SLIIT,0.6,IT Special,Kalutara,C,A,C,S,,S,S,Private
+Agreeableness,SLIIT,0.1,IT Special,Gampaha,C,A,C,S,,S,S,Private
+Agreeableness,SLIIT,1.5,IT Special,Matara,C,A,C,S,,S,S,Private
+Agreeableness,SLIIT,0.52,IT Special,Kandy,A,A,C,S,,S,S,Private
+Agreeableness,SLIIT,0.1,IT Special,Kandy,B,B,C,S,,S,S,Private
+Agreeableness,SLIIT,1.4,IT Special,Kandy,B,B,C,S,,S,S,Private
+Agreeableness,SLIIT,0,IT Special,Colombo,B,B,C,S,,S,S,Private
+Agreeableness,SLIIT,-0.25,IT Special,Kandy,B,B,C,S,,S,S,Private
+Agreeableness,SLIIT,-0.1202,IT Special,Galle,B,B,C,S,,S,S,Private
+Agreeableness,SLIIT,0.1,IT Special,Galle,B,A,C,S,,S,S,Private
+Agreeableness,SLIIT,-0.23,IT Special,Badulla,B,A,C,S,,S,S,Private
+Agreeableness,SLIIT,0.6,IT Special,Gampaha,C,A,C,S,,S,S,Private
+Agreeableness,SLIIT,0.8,IT Special,Badulla,C,A,C,S,,S,S,Private
+Agreeableness,SLIIT,0.52,IT Special,Batticaloa,C,B,C,S,,S,S,Private
+Agreeableness,SLIIT,0.63,IT Special,Jaffna,B,B,C,S,,S,S,Private
+Agreeableness,SLIIT,1.5,IT Special,Kagalle,B,B,C,S,,S,S,Private
+Agreeableness,SLIIT,1.1,IT Special,Kilinochchi,B,B,C,S,,S,S,Private
+Agreeableness,SLIIT,1.6,IT Special,Kurunegala,B,B,C,S,,S,S,Private
+Open,SLIIT,0.1236,IT Special,Mannar,B,B,C,S,,S,S,Private
+Open,SLIIT,0.4526,IT Special,Mullaitivu,B,B,C,S,,S,S,Private
+Open,SLIIT,0.42,IT Special,Nuwara Eliya,B,B,C,S,,S,S,Private
+Open,SLIIT,0.89,IT Special,Polonnaruwa,B,A,C,S,,S,S,Private
+Open,SLIIT,0.6,IT Special,Puttalam,B,A,C,S,,S,S,Private
+Open,SLIIT,0.1,IT Special,Trincomalee,B,A,C,S,,S,S,Private
+Open,SLIIT,1.5,IT Special,Vavuniya,B,A,C,S,,S,S,Private
+Open,SLIIT,0.52,IT Special,Colombo,B,A,C,S,,S,S,Private
+Open,SLIIT,0.1,IT Special,Colombo,B,A,C,S,S,S,S,Private
+Open,SLIIT,1.4,IT Special,Colombo,B,A,C,,S,S,S,Private
+Open,SLIIT,0,IT Special,Colombo,B,A,C,,S,S,S,Private
+Open,SLIIT,-0.25,IT Special,Colombo,B,A,C,,S,S,S,Private
+Open,SLIIT,-0.1202,IT Special,Kalutara,C,A,C,,S,S,S,Private
+Open,SLIIT,-0.125,IT Special,Gampaha,B,A,C,,S,S,S,Private
+Open,SLIIT,-0.2252,IT Special,Matara,B,A,C,,S,S,S,Private
+Open,SLIIT,-0.2952,IT Special,Kandy,B,B,C,,S,S,S,Private
+Open,SLIIT,-0.1992,IT Special,Kandy,B,B,C,,S,S,S,Private
+Open,SLIIT,-0.2561,IT Special,Kandy,B,B,C,,S,S,S,Private
+Open,SLIIT,0.03,IT Special,Colombo,B,B,C,,S,S,S,Private
+Open,SLIIT,0.04,IT Special,Kandy,B,A,C,,S,S,S,Private
+Open,SLIIT,0.03,IT Special,Galle,B,A,C,,S,S,S,Private
+Open,SLIIT,0.002,IT Special,Galle,B,A,C,,S,S,S,Private
+Open,SLIIT,0.0003,IT Special,Badulla,B,A,C,,S,S,S,Private
+Open,SLIIT,0.2253,IT Special,Gampaha,B,A,C,,S,S,S,Private
+Open,SLIIT,0.7802,IT Special,Matara,B,A,C,,S,S,S,Private
+Open,SLIIT,0.9253,IT Special,Galle,B,C,C,,S,S,S,Private
+Open,SLIIT,0.1262,IT Special,Kagalle,B,C,C,,S,S,S,Private
+Open,SLIIT,0.03,IT Special,Kandy,B,C,C,,S,S,S,Private
+Open,SLIIT,0.04,IT Special,Colombo,B,C,C,,S,S,S,Private
+Open,SLIIT,0.03,IT Special,Kalutara,B,C,C,,S,S,S,Private
+Open,SLIIT,0.002,IT Special,Kalutara,B,C,C,,S,S,S,Private
+Open,SLIIT,0.0003,IT Special,Badulla,B,C,C,,S,S,S,Private
+Open,SLIIT,0.2253,IT Special,Batticaloa,B,C,C,,S,S,S,Private
+Open,SLIIT,0.7802,IT Special,Jaffna,B,C,C,,S,S,S,Private
+Open,SLIIT,0.9253,IT Special,Kagalle,B,C,C,,S,S,S,Private
+Open,SLIIT,0.1262,IT Special,Kilinochchi,B,C,C,,S,S,S,Private
+Open,SLIIT,0.03,IT Special,Kurunegala,A,C,C,,S,S,S,Private
+Open,SLIIT,0.04,IT Special,Mannar,A,C,C,,S,S,S,Private
+Extraversion ,SLIIT,0.03,IT Special,Mullaitivu,A,C,C,,S,S,S,Private
+Extraversion ,SLIIT,0.002,IT Special,Nuwara Eliya,A,B,C,,S,S,S,Private
+Extraversion ,SLIIT,0.0003,IT Special,Polonnaruwa,A,B,C,,S,S,S,Private
+Extraversion ,SLIIT,0.2253,IT Special,Puttalam,A,C,C,,S,S,S,Private
+Extraversion ,SLIIT,0.7802,IT Special,Trincomalee,B,C,C,,S,S,S,Private
+Extraversion ,SLIIT,0.9253,IT Special,Vavuniya,B,B,C,,S,S,S,Private
+Extraversion ,SLIIT,0.1262,IT Special,Colombo,B,B,C,,S,S,S,Private
+Extraversion ,SLIIT,0.03,IT Special,Colombo,B,B,C,,S,S,S,Private
+Extraversion ,SLIIT,0.04,IT Special,Colombo,B,B,C,,S,S,S,Private
+Extraversion ,SLIIT,0.03,Software Engineering,Colombo,A,B,C,C,,C,S,Private
+Extraversion ,SLIIT,0.002,Software Engineering,Colombo,B,C,S,C,,C,S,Private
+Extraversion ,SLIIT,0.0003,Software Engineering,Kalutara,B,C,S,C,,C,S,Private
+Extraversion ,SLIIT,0.2253,Software Engineering,Gampaha,B,C,S,C,,C,S,Private
+Extraversion ,SLIIT,0.7802,Software Engineering,Matara,A,C,S,C,,C,S,Private
+Extraversion ,SLIIT,0.9253,Software Engineering,Kandy,A,C,C,C,,C,S,Private
+Extraversion ,SLIIT,0.1262,Software Engineering,Kandy,C,B,C,C,,C,C,Private
+Extraversion ,SLIIT,0.5,Software Engineering,Kandy,C,B,C,C,,C,C,Private
+Extraversion ,SLIIT,0.6,Software Engineering,Colombo,C,B,C,C,,C,C,Private
+Extraversion ,SLIIT,0.8,Software Engineering,Kandy,C,B,B,C,,C,C,Private
+Extraversion ,SLIIT,0.52,Software Engineering,Galle,C,B,B,C,,C,C,Private
+Extraversion ,SLIIT,0.63,Software Engineering,Galle,C,B,B,C,,C,C,Private
+Extraversion ,SLIIT,1.5,Software Engineering,Badulla,C,B,B,C,,C,C,Private
+Extraversion ,SLIIT,1.1,Software Engineering,Gampaha,C,B,B,C,,C,C,Private
+Extraversion ,SLIIT,1.6,Software Engineering,Badulla,C,B,B,C,,C,S,Private
+Extraversion ,SLIIT,0.1236,Software Engineering,Batticaloa,B,B,B,C,,C,S,Private
+Extraversion ,SLIIT,0.4526,Software Engineering,Jaffna,B,B,B,C,,C,S,Private
+Extraversion ,SLIIT,0.42,Software Engineering,Kagalle,B,B,B,C,,C,S,Private
+Extraversion ,SLIIT,0.89,Software Engineering,Kilinochchi,B,B,B,C,,C,S,Private
+Extraversion ,SLIIT,0.6,Software Engineering,Kurunegala,B,B,B,C,,C,S,Private
+Extraversion ,SLIIT,0.1,Software Engineering,Mannar,B,B,B,C,,C,S,Private
+Extraversion ,SLIIT,1.5,Software Engineering,Mullaitivu,B,B,B,C,,C,S,Private
+Extraversion ,SLIIT,0.52,Software Engineering,Nuwara Eliya,A,B,B,C,,C,S,Private
+Extraversion ,SLIIT,0.1,Software Engineering,Polonnaruwa,A,B,B,B,,C,S,Private
+Extraversion ,SLIIT,1.4,Software Engineering,Puttalam,A,B,A,B,,C,S,Private
+Extraversion ,SLIIT,0,Software Engineering,Trincomalee,A,B,A,C,,C,S,Private
+Extraversion ,SLIIT,-0.25,Software Engineering,Vavuniya,A,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,-0.1202,Software Engineering,Colombo,A,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,0.1,Software Engineering,Colombo,A,A,A,C,,C,S,Private
+Conscientiousness,SLIIT,-0.23,Software Engineering,Colombo,A,A,C,C,,C,S,Private
+Conscientiousness,SLIIT,0.6,Software Engineering,Colombo,A,A,C,C,,C,S,Private
+Conscientiousness,SLIIT,0.8,Software Engineering,Colombo,A,A,A,C,,B,S,Private
+Conscientiousness,SLIIT,0.52,Software Engineering,Kalutara,A,A,A,C,,S,S,Private
+Conscientiousness,SLIIT,0.63,Software Engineering,Gampaha,A,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,1.5,Software Engineering,Matara,A,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,1.1,Software Engineering,Kandy,A,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,1.6,Software Engineering,Kandy,A,B,C,C,,C,S,Private
+Conscientiousness,SLIIT,0.1236,Software Engineering,Kandy,A,A,C,C,,C,S,Private
+Conscientiousness,SLIIT,0.4526,Software Engineering,Colombo,A,A,C,C,,C,S,Private
+Conscientiousness,SLIIT,0.42,Software Engineering,Kandy,A,A,C,C,,C,S,Private
+Conscientiousness,SLIIT,0.89,Software Engineering,Galle,A,A,C,C,,C,S,Private
+Conscientiousness,SLIIT,0.6,Software Engineering,Galle,B,B,C,C,,C,S,Private
+Conscientiousness,SLIIT,0.1,Software Engineering,Badulla,B,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,1.5,Software Engineering,Gampaha,A,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,0.52,Software Engineering,Badulla,A,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,0.1,Software Engineering,Batticaloa,A,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,1.4,Software Engineering,Jaffna,A,A,A,C,,C,S,Private
+Conscientiousness,SLIIT,0,Software Engineering,Kagalle,A,A,C,C,,C,S,Private
+Conscientiousness,SLIIT,-0.25,Software Engineering,Kilinochchi,A,A,C,C,,C,S,Private
+Conscientiousness,SLIIT,-0.1202,Software Engineering,Kurunegala,A,A,C,C,,C,S,Private
+Conscientiousness,SLIIT,-0.125,Software Engineering,Mannar,A,B,C,C,,C,S,Private
+Conscientiousness,SLIIT,-0.2252,Software Engineering,Mullaitivu,A,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,-0.2952,Software Engineering,Nuwara Eliya,A,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,-0.1992,Software Engineering,Polonnaruwa,A,B,A,B,,C,S,Private
+Conscientiousness,SLIIT,-0.2561,Software Engineering,Puttalam,A,B,A,,C,C,S,Private
+Conscientiousness,SLIIT,0.03,Software Engineering,Trincomalee,A,B,A,,C,C,S,Private
+Conscientiousness,SLIIT,0.04,Software Engineering,Vavuniya,A,B,A,,C,C,S,Private
+Conscientiousness,SLIIT,0.03,Software Engineering,Colombo,A,B,A,,C,C,S,Private
+Conscientiousness,SLIIT,0.002,Software Engineering,Colombo,A,A,A,,C,C,S,Private
+Conscientiousness,SLIIT,0.0003,Software Engineering,Colombo,A,A,A,,C,C,S,Private
+Conscientiousness,SLIIT,0.2253,Software Engineering,Colombo,A,A,A,,C,C,S,Private
+Conscientiousness,SLIIT,0.7802,Software Engineering,Colombo,A,A,B,,C,C,S,Private
+Conscientiousness,SLIIT,0.9253,Software Engineering,Kalutara,A,A,B,,C,C,S,Private
+Conscientiousness,SLIIT,0.1262,Software Engineering,Gampaha,B,A,B,,C,C,S,Private
+Conscientiousness,SLIIT,0.03,Software Engineering,Matara,A,A,B,,C,C,S,Private
+Conscientiousness,SLIIT,0.04,Software Engineering,Kandy,A,A,B,,C,C,S,Private
+Conscientiousness,SLIIT,0.03,Software Engineering,Kandy,A,A,B,,C,C,S,Private
+Conscientiousness,SLIIT,0.002,Software Engineering,Kandy,A,A,B,,C,C,S,Private
+Conscientiousness,SLIIT,0.0003,Software Engineering,Colombo,A,A,B,,C,C,S,Private
+Conscientiousness,SLIIT,0.2253,Software Engineering,Kandy,A,A,B,,C,C,S,Private
+Conscientiousness,SLIIT,0.7802,Software Engineering,Galle,B,B,B,,C,C,S,Private
+Open,SLIIT,0.9253,Software Engineering,Galle,A,B,B,,C,C,S,Private
+Open,SLIIT,0.1262,Software Engineering,Badulla,A,B,B,,C,C,S,Private
+Open,SLIIT,0.03,Cyber Security,Gampaha,A,B,B,,C,C,S,Private
+Open,SLIIT,0.04,Cyber Security,Matara,A,A,B,B,,S,S,Private
+Open,SLIIT,0.03,Cyber Security,Galle,A,A,B,B,,S,S,Private
+Open,SLIIT,0.002,Cyber Security,Kagalle,A,A,B,B,,S,S,Private
+Open,SLIIT,0.0003,Cyber Security,Kandy,A,A,B,B,,S,S,Private
+Open,SLIIT,0.2253,Cyber Security,Colombo,A,A,B,B,,S,S,Private
+Open,SLIIT,0.7802,Cyber Security,Kalutara,A,A,B,B,,S,S,Private
+Open,SLIIT,0.9253,Cyber Security,Kalutara,B,C,B,B,,S,S,Private
+Extraversion ,SLIIT,0.1262,Cyber Security,Batticaloa,B,C,C,B,,S,S,Private
+Extraversion ,SLIIT,0.03,Cyber Security,Jaffna,B,C,C,B,,S,S,Private
+Extraversion ,SLIIT,0.04,Cyber Security,Kagalle,B,C,C,B,,S,S,Private
+Extraversion ,SLIIT,0.03,Cyber Security,Kilinochchi,B,C,C,B,,S,S,Private
+Extraversion ,SLIIT,0.002,Cyber Security,Kurunegala,B,C,C,,C,C,S,Private
+Extraversion ,SLIIT,0.0003,Cyber Security,Mannar,B,C,C,,C,C,S,Private
+Extraversion ,SLIIT,0.2253,Cyber Security,Mullaitivu,B,C,C,,C,C,S,Private
+Extraversion ,SLIIT,0.7802,Cyber Security,Nuwara Eliya,B,C,C,,C,C,S,Private
+Extraversion ,SLIIT,0.9253,Cyber Security,Polonnaruwa,B,C,C,,C,C,S,Private
+Extraversion ,SLIIT,0.1262,Cyber Security,Puttalam,B,C,C,,C,C,S,Private
+Extraversion ,SLIIT,0.5,Cyber Security,Trincomalee,A,C,C,,C,C,S,Private
+Extraversion ,SLIIT,0.6,Cyber Security,Vavuniya,A,C,S,,C,C,S,Private
+Extraversion ,SLIIT,0.8,Cyber Security,Colombo,A,C,S,,C,C,S,Private
+Extraversion ,SLIIT,0.52,Cyber Security,Colombo,A,B,S,,C,C,S,Private
+Extraversion ,SLIIT,0.63,Cyber Security,Colombo,A,B,S,,C,C,S,Private
+Extraversion ,SLIIT,1.5,Cyber Security,Colombo,A,C,S,,C,C,S,Private
+Extraversion ,SLIIT,1.1,Cyber Security,Colombo,A,C,S,,C,C,S,Private
+Extraversion ,SLIIT,1.6,Cyber Security,Kalutara,A,B,S,,C,C,S,Private
+Extraversion ,SLIIT,0.1236,Cyber Security,Gampaha,A,B,S,,C,C,S,Private
+Extraversion ,SLIIT,0.4526,Cyber Security,Matara,A,B,S,,C,C,S,Private
+Extraversion ,SLIIT,0.42,Cyber Security,Kandy,A,B,C,,C,C,S,Private
+Extraversion ,SLIIT,0.89,Cyber Security,Kandy,A,B,C,,C,C,S,Private
+Extraversion ,SLIIT,0.6,Cyber Security,Kandy,B,C,S,B,,S,S,Private
+Extraversion ,SLIIT,0.1,Cyber Security,Colombo,B,C,S,B,,S,S,Private
+Extraversion ,SLIIT,1.5,Cyber Security,Kandy,B,C,S,B,,S,S,Private
+Extraversion ,SLIIT,0.52,Cyber Security,Galle,A,C,S,B,,S,S,Private
+Extraversion ,SLIIT,0.1,Cyber Security,Galle,A,C,C,B,,S,S,Private
+Extraversion ,SLIIT,1.4,Cyber Security,Badulla,C,B,C,B,,S,S,Private
+Extraversion ,SLIIT,0,Cyber Security,Gampaha,C,B,C,B,,S,S,Private
+Extraversion ,SLIIT,-0.25,Cyber Security,Badulla,C,B,C,B,,S,S,Private
+Open,SLIIT,-0.1202,Cyber Security,Batticaloa,C,B,B,B,,S,S,Private
+Open,SLIIT,0.1,Cyber Security,Jaffna,C,B,B,B,,S,S,Private
+Open,SLIIT,-0.23,Cyber Security,Kagalle,C,B,B,B,,S,S,Private
+Open,SLIIT,0.6,Cyber Security,Kilinochchi,C,B,B,B,,S,S,Private
+Open,SLIIT,0.8,Cyber Security,Kurunegala,C,B,B,B,,S,S,Private
+Open,SLIIT,0.52,Cyber Security,Mannar,C,B,B,B,,S,S,Private
+Open,SLIIT,0.63,Cyber Security,Mullaitivu,B,B,B,B,,S,S,Private
+Open,SLIIT,1.5,Cyber Security,Nuwara Eliya,B,B,B,B,,S,S,Private
+Open,SLIIT,1.1,Cyber Security,Polonnaruwa,B,B,B,B,,S,S,Private
+Open,SLIIT,1.6,Cyber Security,Puttalam,B,B,B,B,,S,S,Private
+Open,SLIIT,0.1236,Cyber Security,Trincomalee,B,B,B,B,,S,S,Private
+Open,SLIIT,0.4526,Cyber Security,Vavuniya,B,B,B,B,,S,S,Private
+Open,SLIIT,0.42,Cyber Security,Colombo,B,B,B,B,,S,S,Private
+Open,SLIIT,0.89,Cyber Security,Colombo,A,B,B,B,,S,S,Private
+Open,SLIIT,0.6,Cyber Security,Colombo,A,B,B,B,,S,S,Private
+Open,SLIIT,0.1,Cyber Security,Colombo,A,B,A,B,,S,S,Private
+Open,SLIIT,1.5,Cyber Security,Colombo,A,B,A,B,,S,S,Private
+Open,SLIIT,0.52,Cyber Security,Kalutara,A,B,A,B,,C,S,Private
+Open,SLIIT,0.1,Cyber Security,Gampaha,A,B,A,B,,C,S,Private
+Open,SLIIT,1.4,Cyber Security,Matara,A,A,A,B,,S,S,Private
+Open,SLIIT,0,Cyber Security,Kandy,A,A,C,B,,S,S,Private
+Open,SLIIT,-0.25,Cyber Security,Kandy,A,A,C,B,,S,S,Private
+Open,SLIIT,-0.1202,Cyber Security,Kandy,A,A,A,B,,S,S,Private
+Open,SLIIT,-0.125,Cyber Security,Colombo,A,A,A,B,,S,S,Private
+Open,SLIIT,-0.2252,Cyber Security,Kandy,A,B,A,B,,S,S,Private
+Open,SLIIT,-0.2952,Cyber Security,Galle,A,B,A,B,,S,S,Private
+Conscientiousness,SLIIT,-0.1992,Cyber Security,Galle,A,B,A,B,,S,S,Private
+Conscientiousness,SLIIT,-0.2561,Cyber Security,Badulla,A,B,C,B,,S,S,Private
+Conscientiousness,SLIIT,0.03,Cyber Security,Gampaha,A,A,C,B,,S,S,Private
+Conscientiousness,SLIIT,0.04,Cyber Security,Matara,A,A,C,B,,S,S,Private
+Conscientiousness,SLIIT,0.03,Cyber Security,Galle,A,A,C,B,,S,S,Private
+Conscientiousness,SLIIT,0.002,Cyber Security,Kagalle,A,A,C,B,,S,S,Private
+Conscientiousness,SLIIT,0.0003,Cyber Security,Kandy,B,B,C,B,,S,S,Private
+Conscientiousness,SLIIT,0.2253,Cyber Security,Colombo,B,B,A,B,,S,S,Private
+Conscientiousness,SLIIT,0.7802,Cyber Security,Kalutara,A,B,A,B,,S,S,Private
+Conscientiousness,SLIIT,0.9253,Cyber Security,Kalutara,A,B,A,B,,S,S,Private
+Conscientiousness,SLIIT,0.1262,Cyber Security,Batticaloa,A,B,A,B,,S,S,Private
+Conscientiousness,SLIIT,0.03,Cyber Security,Jaffna,A,A,A,B,,S,S,Private
+Conscientiousness,SLIIT,0.04,Cyber Security,Kagalle,A,A,C,B,,S,S,Private
+Conscientiousness,SLIIT,0.03,Cyber Security,Kilinochchi,A,A,C,B,,S,S,Private
+Conscientiousness,SLIIT,0.002,Cyber Security,Kurunegala,A,A,C,B,,S,S,Private
+Conscientiousness,SLIIT,0.0003,Cyber Security,Mannar,A,B,C,B,,S,S,Private
+Conscientiousness,SLIIT,0.2253,Cyber Security,Mullaitivu,A,B,A,B,,S,S,Private
+Conscientiousness,SLIIT,0.7802,Cyber Security,Nuwara Eliya,A,B,A,C,,C,S,Private
+Conscientiousness,SLIIT,0.9253,Cyber Security,Polonnaruwa,A,B,A,C,,C,S,Private
+Agreeableness,SLIIT,0.1262,Cyber Security,Puttalam,A,B,A,C,,C,S,Private
+Agreeableness,SLIIT,0.03,Cyber Security,Trincomalee,A,B,A,C,,C,S,Private
+Agreeableness,SLIIT,0.04,Cyber Security,Vavuniya,A,B,A,C,,C,S,Private
+Agreeableness,SLIIT,0.03,Cyber Security,Colombo,A,B,A,C,,C,S,Private
+Agreeableness,SLIIT,0.002,Cyber Security,Colombo,A,A,A,C,,C,S,Private
+Agreeableness,SLIIT,0.0003,Cyber Security,Colombo,A,A,A,C,,C,S,Private
+Agreeableness,SLIIT,0.2253,Cyber Security,Colombo,A,A,A,C,,C,S,Private
+Agreeableness,SLIIT,0.7802,Cyber Security,Colombo,A,A,B,C,,C,S,Private
+Agreeableness,SLIIT,0.9253,Cyber Security,Kalutara,A,A,B,C,,C,S,Private
+Agreeableness,SLIIT,0.1262,Cyber Security,Gampaha,B,A,B,C,,C,S,Private
+Agreeableness,SLIIT,0.03,Cyber Security,Matara,A,A,B,C,,C,S,Private
+Agreeableness,SLIIT,0.04,Cyber Security,Kandy,A,A,B,C,,C,S,Private
+Agreeableness,SLIIT,0.03,Cyber Security,Kandy,A,A,B,C,,C,S,Private
+Agreeableness,SLIIT,0.002,Cyber Security,Kandy,A,A,B,C,,C,S,Private
+Agreeableness,SLIIT,0.0003,Cyber Security,Colombo,A,A,B,C,,C,S,Private
+Agreeableness,SLIIT,0.2253,Cyber Security,Kandy,A,A,B,C,,C,S,Private
+Agreeableness,SLIIT,0.7802,Cyber Security,Galle,B,B,B,C,,C,S,Private
+Agreeableness,SLIIT,0.9253,Cyber Security,Galle,A,B,B,C,,C,S,Private
+Agreeableness,SLIIT,0.1262,Cyber Security,Badulla,A,B,B,C,,C,S,Private
+Agreeableness,SLIIT,0.5,Cyber Security,Gampaha,A,B,B,C,,C,S,Private
+Agreeableness,SLIIT,0.6,Network Engineering,Badulla,A,A,B,C,,S,S,Private
+Conscientiousness,SLIIT,0.8,Network Engineering,Batticaloa,A,A,B,C,,S,S,Private
+Conscientiousness,SLIIT,-0.52,Network Engineering,Jaffna,A,A,B,C,,S,S,Private
+Conscientiousness,SLIIT,0.63,Network Engineering,Kagalle,A,A,B,C,,S,S,Private
+Conscientiousness,SLIIT,1.5,Network Engineering,Kilinochchi,A,A,B,C,,S,S,Private
+Conscientiousness,SLIIT,1.1,Network Engineering,Kurunegala,A,A,B,C,,S,S,Private
+Conscientiousness,SLIIT,1.6,Network Engineering,Mannar,B,C,B,C,,S,S,Private
+Conscientiousness,SLIIT,0.1236,Network Engineering,Mullaitivu,B,C,C,C,,S,S,Private
+Conscientiousness,SLIIT,0.4526,Network Engineering,Nuwara Eliya,B,C,C,C,,S,S,Private
+Conscientiousness,SLIIT,0.42,Network Engineering,Polonnaruwa,B,C,C,C,,S,S,Private
+Conscientiousness,SLIIT,0.89,Network Engineering,Puttalam,B,C,C,S,,S,S,Private
+Conscientiousness,SLIIT,0.6,Network Engineering,Trincomalee,B,C,C,C,,S,S,Private
+Conscientiousness,SLIIT,0.1,Network Engineering,Vavuniya,B,C,C,C,,S,S,Private
+Conscientiousness,SLIIT,1.5,Network Engineering,Colombo,B,C,C,C,,S,S,Private
+Conscientiousness,SLIIT,0.52,Network Engineering,Colombo,B,C,C,C,,S,S,Private
+Conscientiousness,SLIIT,0.1,Network Engineering,Colombo,B,C,C,C,,S,S,Private
+Conscientiousness,SLIIT,1.4,Network Engineering,Colombo,B,C,C,C,,S,S,Private
+Conscientiousness,SLIIT,0,Network Engineering,Colombo,A,C,C,C,,S,S,Private
+Conscientiousness,SLIIT,-0.25,Network Engineering,Kalutara,A,C,S,C,,S,S,Private
+Conscientiousness,SLIIT,-0.1202,Network Engineering,Gampaha,A,C,S,C,,S,S,Private
+Conscientiousness,SLIIT,0.1,Network Engineering,Matara,A,B,S,S,,C,S,Private
+Conscientiousness,SLIIT,-0.23,Network Engineering,Kandy,A,B,S,S,,C,S,Private
+Conscientiousness,SLIIT,0.6,Network Engineering,Kandy,A,C,S,S,,C,S,Private
+Conscientiousness,SLIIT,0.8,Network Engineering,Kandy,A,C,S,S,,C,S,Private
+Conscientiousness,SLIIT,0.52,Network Engineering,Colombo,A,B,S,S,,C,S,Private
+Conscientiousness,SLIIT,0.63,Network Engineering,Kandy,A,B,S,C,,S,S,Private
+Conscientiousness,SLIIT,1.5,Network Engineering,Galle,A,B,S,C,,S,S,Private
+Conscientiousness,SLIIT,1.1,Network Engineering,Galle,A,B,C,C,,S,S,Private
+Conscientiousness,SLIIT,1.6,Network Engineering,Badulla,A,B,C,C,,S,S,Private
+Conscientiousness,SLIIT,0.1236,Network Engineering,Gampaha,B,C,S,C,,S,S,Private
+Open,SLIIT,-0.4526,Network Engineering,Matara,B,C,S,C,,S,S,Private
+Open,SLIIT,-0.42,Network Engineering,Galle,B,C,S,C,,S,S,Private
+Open,SLIIT,0.89,Network Engineering,Kagalle,A,C,S,C,,S,S,Private
+Open,SLIIT,0.6,Network Engineering,Kandy,A,C,C,S,,C,S,Private
+Open,SLIIT,0.1,Network Engineering,Colombo,C,B,C,S,,C,,Private
+Open,SLIIT,1.5,Network Engineering,Kalutara,C,B,C,S,,C,,Private
+Open,SLIIT,0.52,Network Engineering,Kalutara,C,B,C,C,,S,,Private
+Open,SLIIT,-0.1,Network Engineering,Colombo,C,B,B,C,,S,,Private
+Open,SLIIT,1.4,Network Engineering,Colombo,C,B,B,C,,S,,Private
+Open,SLIIT,0,Network Engineering,Matara,C,B,B,C,,S,,Private
+Open,SLIIT,-0.25,Network Engineering,Galle,C,B,B,C,,S,,Private
+Open,SLIIT,-0.1202,Network Engineering,Kandy,C,B,B,C,,C,,Private
+Open,SLIIT,-0.125,Network Engineering,Gampaha,C,B,B,C,,C,,Private
+Open,SLIIT,-0.2252,Network Engineering,Hambantota,B,B,B,C,,C,,Private
+Open,SLIIT,-0.2952,Network Engineering,Badulla,B,B,B,C,,S,,Private
+Open,SLIIT,-0.1992,Network Engineering,Batticaloa,B,B,B,C,,S,,Private
+Open,SLIIT,-0.2561,Network Engineering,Jaffna,B,B,B,C,,S,,Private
+Open,SLIIT,0.2253,Network Engineering,Kagalle,B,B,B,C,,S,,Private
+Open,SLIIT,0.7802,Network Engineering,Kilinochchi,B,B,B,C,,S,,Private
+Open,SLIIT,0.9253,Network Engineering,Kurunegala,B,B,B,C,,S,,Private
+Open,SLIIT,0.1262,Network Engineering,Mannar,A,B,B,C,,S,,Private
+Open,SLIIT,0.03,Network Engineering,Mullaitivu,A,B,B,C,,S,,Private
+Open,SLIIT,0.04,Network Engineering,Nuwara Eliya,A,B,A,C,,S,S,Private
+Open,SLIIT,0.03,Network Engineering,Polonnaruwa,A,B,A,C,,S,S,Private
+Open,SLIIT,0.002,Network Engineering,Puttalam,A,B,A,S,,C,S,Private
+Open,SLIIT,0.0003,Network Engineering,Trincomalee,A,B,A,S,,C,S,Private
+Open,SLIIT,0.2253,Network Engineering,Vavuniya,A,A,A,S,,C,S,Private
+Open,SLIIT,0.7802,Network Engineering,Colombo,A,A,C,S,,C,S,Private
+Open,SLIIT,0.9253,Network Engineering,Colombo,A,A,C,S,,C,S,Private
+Open,SLIIT,0.1262,Network Engineering,Colombo,A,A,A,S,,C,S,Private
+Open,SLIIT,0.03,Network Engineering,Colombo,A,A,A,S,,C,S,Private
+Open,SLIIT,0.04,Network Engineering,Colombo,A,B,A,S,,C,S,Private
+Open,SLIIT,0.03,Network Engineering,Kalutara,A,B,A,S,,C,S,Private
+Open,SLIIT,0.002,Network Engineering,Gampaha,A,B,A,S,,C,S,Private
+Open,SLIIT,0.0003,Network Engineering,Matara,A,B,C,S,,C,S,Private
+Open,SLIIT,0.2253,Network Engineering,Kandy,A,A,C,S,,C,S,Private
+Open,SLIIT,0.7802,Network Engineering,Kandy,A,A,C,S,,C,S,Private
+Open,SLIIT,0.9253,Network Engineering,Kandy,A,A,C,S,,C,S,Private
+Open,SLIIT,0.1262,Network Engineering,Colombo,A,A,C,S,,C,S,Private
+Open,SLIIT,0.03,Network Engineering,Kandy,B,B,C,S,,C,S,Private
+Open,SLIIT,0.04,Network Engineering,Galle,B,B,A,S,,C,S,Private
+Open,SLIIT,0.03,Network Engineering,Galle,A,B,A,S,,C,S,Private
+Open,SLIIT,0.002,Network Engineering,Badulla,A,B,A,S,,C,S,Private
+Open,SLIIT,0.0003,Network Engineering,Gampaha,A,B,A,S,,C,S,Private
+Open,SLIIT,0.2253,Network Engineering,Badulla,A,A,A,S,,C,S,Private
+Open,SLIIT,0.7802,Network Engineering,Batticaloa,A,A,C,S,,C,S,Private
+Open,SLIIT,0.9253,Network Engineering,Jaffna,A,A,C,S,,C,S,Private
+Open,SLIIT,0.1262,Network Engineering,Kagalle,A,A,C,S,,C,S,Private
+Open,SLIIT,0.5,Network Engineering,Kilinochchi,A,B,C,S,,C,S,Private
+Open,SLIIT,0.6,Network Engineering,Kurunegala,A,B,A,S,,C,S,Private
+Open,SLIIT,0.8,Network Engineering,Mannar,A,B,A,S,,C,S,Private
+Open,SLIIT,-0.52,Network Engineering,Mullaitivu,A,B,A,S,,C,S,Private
+Open,SLIIT,0.63,Network Engineering,Nuwara Eliya,A,B,A,S,,C,S,Private
+Open,SLIIT,1.5,Network Engineering,Polonnaruwa,A,B,A,S,,C,S,Private
+Open,SLIIT,1.1,Network Engineering,Puttalam,A,B,A,S,,C,S,Private
+Open,SLIIT,1.6,Network Engineering,Trincomalee,A,B,A,S,,C,S,Private
+Open,SLIIT,0.1236,Network Engineering,Vavuniya,A,A,A,S,,C,S,Private
+Open,SLIIT,0.4526,Network Engineering,Colombo,A,A,A,S,,C,S,Private
+Open,SLIIT,0.42,Network Engineering,Colombo,A,A,A,S,,C,S,Private
+Open,SLIIT,0.89,Engineering,Colombo,A,A,B,B,,S,S,Private
+Open,SLIIT,0.6,Engineering,Colombo,A,A,B,B,,S,S,Private
+Open,SLIIT,0.1,Engineering,Colombo,A,A,B,B,,S,S,Private
+Open,SLIIT,1.5,Engineering,Kalutara,A,A,B,B,,S,S,Private
+Open,SLIIT,0.52,Engineering,Gampaha,A,A,B,B,,S,S,Private
+Open,SLIIT,0.1,Engineering,Matara,A,A,B,B,,S,S,Private
+Conscientiousness,SLIIT,1.4,Engineering,Kandy,A,A,B,B,,S,S,Private
+Conscientiousness,SLIIT,0,Engineering,Kandy,A,A,B,B,,S,S,Private
+Conscientiousness,SLIIT,-0.25,Engineering,Kandy,A,A,B,B,,S,S,Private
+Conscientiousness,SLIIT,-0.1202,Engineering,Colombo,A,B,B,B,,S,S,Private
+Conscientiousness,SLIIT,0.1,Engineering,Kandy,A,B,B,B,,S,S,Private
+Conscientiousness,SLIIT,-0.23,Engineering,Galle,A,B,B,B,,S,S,Private
+Conscientiousness,SLIIT,0.6,Engineering,Galle,A,B,B,C,,C,S,Private
+Conscientiousness,SLIIT,0.8,Engineering,Badulla,A,A,B,C,,C,S,Private
+Conscientiousness,SLIIT,0.52,Engineering,Gampaha,A,A,B,C,,C,S,Private
+Conscientiousness,SLIIT,0.63,Engineering,Badulla,A,A,B,C,,C,S,Private
+Conscientiousness,SLIIT,1.5,Engineering,Batticaloa,A,A,B,C,,C,S,Private
+Conscientiousness,SLIIT,1.1,Engineering,Jaffna,A,A,B,C,,C,S,Private
+Conscientiousness,SLIIT,1.6,Engineering,Kagalle,A,A,B,C,,C,S,Private
+Conscientiousness,SLIIT,0.1236,Engineering,Kilinochchi,A,C,B,C,,C,S,Private
+Conscientiousness,SLIIT,-0.4526,Engineering,Kurunegala,A,C,C,C,,C,,Private
+Conscientiousness,SLIIT,-0.42,Engineering,Mannar,A,C,C,C,,C,,Private
+Conscientiousness,SLIIT,0.89,Engineering,Mullaitivu,A,C,C,C,,C,,Private
+Conscientiousness,SLIIT,0.6,Engineering,Nuwara Eliya,A,C,C,B,,C,,Private
+Conscientiousness,SLIIT,0.1,Engineering,Polonnaruwa,A,C,C,B,,C,,Private
+Conscientiousness,SLIIT,1.5,Engineering,Puttalam,A,C,C,C,,C,,Private
+Conscientiousness,SLIIT,0.52,Engineering,Trincomalee,A,C,C,C,,C,,Private
+Conscientiousness,SLIIT,-0.1,Engineering,Vavuniya,A,C,C,C,,C,,Private
+Conscientiousness,SLIIT,1.4,Engineering,Colombo,A,C,C,C,,C,,Private
+Conscientiousness,SLIIT,0,Engineering,Colombo,A,C,C,C,,C,,Private
+Conscientiousness,SLIIT,-0.25,Engineering,Colombo,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,-0.1202,Engineering,Colombo,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,-0.125,Engineering,Colombo,A,A,A,B,,C,,Private
+Conscientiousness,SLIIT,-0.2252,Engineering,Kalutara,A,A,A,B,,S,,Private
+Conscientiousness,SLIIT,-0.2952,Engineering,Gampaha,A,A,A,B,,S,,Private
+Conscientiousness,SLIIT,-0.1992,Engineering,Matara,A,A,A,B,,S,,Private
+Conscientiousness,SLIIT,-0.2561,Engineering,Kandy,A,A,A,B,,S,,Private
+Conscientiousness,SLIIT,0.2253,Engineering,Kandy,A,A,A,B,,S,,Private
+Conscientiousness,SLIIT,0.7802,Engineering,Kandy,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.9253,Engineering,Colombo,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.1262,Engineering,Kandy,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.03,Engineering,Galle,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.04,Engineering,Galle,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.03,Engineering,Badulla,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.002,Engineering,Gampaha,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.0003,Engineering,Matara,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.2253,Engineering,Galle,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.7802,Engineering,Kagalle,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.9253,Engineering,Kandy,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.1262,Engineering,Colombo,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.03,Engineering,Kalutara,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.04,Engineering,Kalutara,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.03,Engineering,Badulla,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.002,Engineering,Batticaloa,A,A,A,C,,C,,Private
+Conscientiousness,SLIIT,0.0003,Engineering,Jaffna,A,A,A,C,,C,,Private
+Open,SLIIT,0.2253,Engineering,Kagalle,A,A,A,C,,C,,Private
+Open,SLIIT,0.7802,Engineering,Kilinochchi,A,A,A,C,,C,,Private
+Open,SLIIT,0.9253,Engineering,Kurunegala,A,A,A,B,,C,S,Private
+Open,SLIIT,0.1262,Engineering,Mannar,A,A,A,B,,C,S,Private
+Open,SLIIT,0.03,Engineering,Mullaitivu,A,A,A,B,,C,S,Private
+Open,SLIIT,0.04,Engineering,Nuwara Eliya,A,A,A,B,,S,S,Private
+Open,SLIIT,0.03,Humanities & Science,Polonnaruwa,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.002,Humanities & Science,Puttalam,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.0003,Humanities & Science,Trincomalee,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.2253,Humanities & Science,Vavuniya,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.7802,Humanities & Science,Colombo,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.9253,Humanities & Science,Colombo,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.1262,Humanities & Science,Colombo,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.5,Humanities & Science,Colombo,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.6,Humanities & Science,Colombo,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.8,Humanities & Science,Kalutara,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,-0.52,Humanities & Science,Gampaha,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.63,Humanities & Science,Matara,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,1.5,Humanities & Science,Kandy,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,1.1,Humanities & Science,Kandy,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,1.6,Humanities & Science,Kandy,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.1236,Humanities & Science,Colombo,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.4526,Humanities & Science,Kandy,A,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.42,Humanities & Science,Galle,B,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.89,Humanities & Science,Galle,B,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.6,Humanities & Science,Badulla,B,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.1,Humanities & Science,Gampaha,B,A,A,,B,S,S,Private
+Extraversion ,SLIIT,1.5,Humanities & Science,Badulla,B,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.52,Humanities & Science,Batticaloa,B,A,A,,B,S,S,Private
+Extraversion ,SLIIT,0.1,Humanities & Science,Jaffna,B,A,A,,B,S,S,Private
+Extraversion ,SLIIT,1.4,Humanities & Science,Kagalle,A,A,B,,B,S,S,Private
+Extraversion ,SLIIT,0,Humanities & Science,Kilinochchi,A,A,B,,B,S,S,Private
+Extraversion ,SLIIT,-0.25,Humanities & Science,Kurunegala,A,A,B,,B,S,S,Private
+Extraversion ,SLIIT,-0.1202,Humanities & Science,Mannar,A,A,B,,B,S,S,Private
+Extraversion ,SLIIT,0.1,Humanities & Science,Mullaitivu,B,A,B,,B,S,S,Private
+Extraversion ,SLIIT,-0.23,Humanities & Science,Nuwara Eliya,B,A,B,,B,S,C,Private
+Extraversion ,SLIIT,0.6,Humanities & Science,Polonnaruwa,B,A,B,,B,S,C,Private
+Extraversion ,SLIIT,0.8,Humanities & Science,Puttalam,B,A,B,,C,S,C,Private
+Extraversion ,SLIIT,0.52,Humanities & Science,Trincomalee,A,A,B,,C,S,C,Private
+Extraversion ,SLIIT,0.63,Humanities & Science,Vavuniya,A,A,B,,C,S,C,Private
+Extraversion ,SLIIT,1.5,Humanities & Science,Colombo,A,A,A,,C,S,C,Private
+Extraversion ,SLIIT,1.1,Humanities & Science,Colombo,A,A,B,,C,S,C,Private
+Extraversion ,SLIIT,1.6,Humanities & Science,Colombo,A,A,B,,C,S,C,Private
+Extraversion ,SLIIT,0.1236,Humanities & Science,Colombo,A,A,B,,C,S,C,Private
+Extraversion ,SLIIT,-0.4526,Humanities & Science,Colombo,A,A,B,,C,S,C,Private
+Extraversion ,SLIIT,-0.42,Humanities & Science,Kalutara,A,A,B,,C,S,C,Private
+Extraversion ,SLIIT,0.89,Humanities & Science,Gampaha,A,A,B,,C,S,C,Private
+Conscientiousness,SLIIT,0.6,Humanities & Science,Matara,A,A,B,,C,S,C,Private
+Conscientiousness,SLIIT,0.1,Humanities & Science,Kandy,A,A,A,,C,S,C,Private
+Conscientiousness,SLIIT,1.5,Humanities & Science,Kandy,A,A,B,,C,S,C,Private
+Conscientiousness,SLIIT,0.52,Humanities & Science,Kandy,A,A,B,,C,S,C,Private
+Conscientiousness,SLIIT,-0.1,Humanities & Science,Colombo,A,A,B,,C,S,C,Private
+Conscientiousness,SLIIT,1.4,Humanities & Science,Kandy,A,A,B,,C,S,C,Private
+Conscientiousness,SLIIT,0,Humanities & Science,Galle,A,A,B,,C,S,C,Private
+Conscientiousness,SLIIT,-0.25,Humanities & Science,Galle,A,A,B,,C,S,C,Private
+Conscientiousness,SLIIT,-0.1202,Humanities & Science,Badulla,A,A,B,,C,S,C,Private
+Open,SLIIT,-0.125,Humanities & Science,Gampaha,A,A,B,,C,S,C,Private
+Open,SLIIT,-0.2252,Humanities & Science,Badulla,A,A,B,,C,S,C,Private
+Open,SLIIT,-0.2952,Humanities & Science,Batticaloa,A,A,B,,C,S,C,Private
+Open,SLIIT,-0.1992,Humanities & Science,Jaffna,A,A,B,,C,S,C,Private
+Open,SLIIT,-0.2561,Humanities & Science,Kagalle,A,A,B,,C,S,C,Private
+Open,SLIIT,0.2253,Humanities & Science,Kilinochchi,A,A,B,,C,S,C,Private
+Open,SLIIT,0.7802,Humanities & Science,Kurunegala,A,A,B,,C,S,C,Private
+Open,SLIIT,0.9253,Humanities & Science,Mannar,A,A,B,,B,S,S,Private
+Open,SLIIT,0.1262,Humanities & Science,Mullaitivu,A,A,B,,B,S,S,Private
+Open,SLIIT,0.03,Humanities & Science,Nuwara Eliya,A,A,B,,B,S,S,Private
+Open,SLIIT,0.04,Humanities & Science,Polonnaruwa,A,A,B,,B,S,S,Private
+Open,SLIIT,0.03,Humanities & Science,Puttalam,A,A,B,,B,S,S,Private
+Open,SLIIT,0.002,Humanities & Science,Trincomalee,A,A,B,,B,S,S,Private
+Open,SLIIT,0.0003,Humanities & Science,Vavuniya,A,A,B,,B,S,S,Private
+Open,SLIIT,0.2253,Humanities & Science,Colombo,A,A,B,,B,S,S,Private
+Open,SLIIT,0.7802,Humanities & Science,Colombo,A,A,B,,B,S,S,Private
+Open,SLIIT,0.9253,Humanities & Science,Colombo,A,A,B,,B,S,S,Private
+Open,SLIIT,0.1262,Humanities & Science,Colombo,A,A,B,,B,S,S,Private
+Open,SLIIT,0.03,Humanities & Science,Colombo,A,A,B,,B,S,S,Private
+Open,SLIIT,0.04,Humanities & Science,Kalutara,A,A,B,,B,S,S,Private
+Open,SLIIT,0.03,Humanities & Science,Gampaha,A,A,A,,B,S,S,Private
+Open,SLIIT,0.002,Humanities & Science,Matara,A,A,A,,B,S,S,Private
+Open,SLIIT,0.0003,Humanities & Science,Kandy,A,A,A,,B,S,S,Private
+Open,SLIIT,0.2253,Humanities & Science,Kandy,A,A,B,,B,S,S,Private
+Open,SLIIT,0.7802,Humanities & Science,Kandy,A,A,B,,B,S,S,Private
+Open,SLIIT,0.9253,Humanities & Science,Colombo,A,A,B,,B,S,S,Private
+Open,SLIIT,0.1262,Humanities & Science,Kandy,A,A,B,,B,S,S,Private
+Open,SLIIT,0.03,Humanities & Science,Galle,A,A,B,,B,S,S,Private
+Open,SLIIT,0.04,Humanities & Science,Galle,A,A,B,,B,S,S,Private
+Open,SLIIT,0.03,Humanities & Science,Badulla,A,A,A,,B,S,S,Private
+Open,SLIIT,0.002,Humanities & Science,Gampaha,A,A,A,,B,S,S,Private
+Open,SLIIT,0.0003,Humanities & Science,Matara,A,A,A,,B,S,S,Private
+Open,SLIIT,0.2253,Humanities & Science,Galle,B,A,B,,B,S,S,Private
+Conscientiousness,SLIIT,0.7802,Humanities & Science,Kagalle,B,A,B,,B,S,S,Private
+Conscientiousness,SLIIT,0.9253,Humanities & Science,Kandy,B,A,B,,B,S,S,Private
+Extraversion ,SLIIT,0.1262,Humanities & Science,Colombo,B,A,B,,B,S,S,Private
+Extraversion ,SLIIT,0.5,Humanities & Science,Kalutara,A,A,B,,B,S,S,Private
+Extraversion ,SLIIT,0.6,Humanities & Science,Kalutara,A,A,B,,B,S,S,Private
+Extraversion ,SLIIT,0.8,Humanities & Science,Batticaloa,A,A,B,,B,S,S,Private
+Extraversion ,SLIIT,-0.52,Humanities & Science,Jaffna,A,A,B,,B,S,S,Private
+Extraversion ,SLIIT,0.63,Humanities & Science,Kagalle,A,A,B,,B,S,S,Private
+Extraversion ,SLIIT,1.5,Humanities & Science,Kilinochchi,A,A,B,,B,S,S,Private
+Extraversion ,Open University,1.1,Bachelor of Science Honours in Mathematics,Kurunegala,A,A,A,B,B,S,,Private
+Extraversion ,Open University,1.6,Bachelor of Science Honours in Mathematics,Mannar,A,A,A,B,B,S,,Private
+Extraversion ,Open University,0.1236,Bachelor of Science Honours in Mathematics,Mullaitivu,A,A,A,B,B,S,S,Private
+Extraversion ,Open University,0.4526,Bachelor of Science Honours in Mathematics,Nuwara Eliya,A,A,A,B,B,S,S,Private
+Extraversion ,Open University,0.42,Bachelor of Science Honours in Mathematics,Polonnaruwa,A,A,A,B,B,S,S,Private
+Extraversion ,Open University,0.89,Bachelor of Science Honours in Mathematics,Puttalam,A,A,A,B,,S,S,Private
+Extraversion ,Open University,0.6,Bachelor of Science Honours in Mathematics,Trincomalee,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,0.1,Bachelor of Science Honours in Mathematics,Vavuniya,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,1.5,Bachelor of Science Honours in Mathematics,Colombo,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,0.52,Bachelor of Science Honours in Mathematics,Colombo,A,A,A,B,,C,S,Private
+Conscientiousness,Open University,0.1,Bachelor of Science Honours in Mathematics,Colombo,A,A,A,B,,C,S,Private
+Conscientiousness,Open University,1.4,Bachelor of Science Honours in Mathematics,Colombo,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,0,Bachelor of Science Honours in Mathematics,Colombo,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,-0.25,Bachelor of Science Honours in Mathematics,Kalutara,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,-0.1202,Bachelor of Science Honours in Mathematics,Gampaha,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,0.1,Bachelor of Science Honours in Mathematics,Matara,A,A,A,B,,C,C,Private
+Conscientiousness,Open University,-0.23,Bachelor of Science Honours in Mathematics,Kandy,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.6,Bachelor of Science Honours in Mathematics,Kandy,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.8,Bachelor of Science Honours in Mathematics,Kandy,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.52,Bachelor of Science Honours in Mathematics,Colombo,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.63,Bachelor of Science Honours in Mathematics,Kandy,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,1.5,Bachelor of Science Honours in Mathematics,Galle,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,1.1,Bachelor of Science Honours in Mathematics,Galle,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,1.6,Bachelor of Science Honours in Mathematics,Badulla,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,0.1236,Bachelor of Science Honours in Mathematics,Gampaha,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,-0.4526,Bachelor of Science Honours in Mathematics,Badulla,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,-0.42,Bachelor of Science Honours in Mathematics,Batticaloa,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,0.89,Bachelor of Science Honours in Mathematics,Jaffna,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.6,Bachelor of Science Honours in Mathematics,Kagalle,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.1,Bachelor of Science Honours in Mathematics,Kilinochchi,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,1.5,Bachelor of Science Honours in Mathematics,Kurunegala,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.52,Bachelor of Science Honours in Mathematics,Mannar,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,-0.1,Bachelor of Science Honours in Mathematics,Mullaitivu,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,1.4,Bachelor of Science Honours in Mathematics,Nuwara Eliya,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0,Bachelor of Science Honours in Mathematics,Polonnaruwa,A,A,A,C,,C,S,Private
+Open,Open University,-0.25,Bachelor of Science Honours in Mathematics,Puttalam,A,B,A,C,,C,S,Private
+Open,Open University,-0.1202,Bachelor of Science Honours in Mathematics,Trincomalee,A,B,A,C,,C,S,Private
+Open,Open University,-0.125,Bachelor of Science Honours in Mathematics,Vavuniya,A,A,A,C,,C,S,Private
+Open,Open University,-0.2252,Bachelor of Science Honours in Mathematics,Colombo,A,B,A,B,,S,S,Private
+Open,Open University,-0.2952,Bachelor of Science Honours in Mathematics,Colombo,A,B,A,B,,S,S,Private
+Open,Open University,-0.1992,Bachelor of Science Honours in Mathematics,Colombo,A,B,A,B,,S,S,Private
+Open,Open University,-0.2561,Bachelor of Science Honours in Mathematics,Colombo,A,B,A,B,,S,S,Private
+Extraversion ,Open University,0.2253,Bachelor of Science Honours in Mathematics,Colombo,A,B,A,B,,S,S,Private
+Extraversion ,Open University,0.7802,Bachelor of Science Honours in Mathematics,Kalutara,A,B,A,B,,S,S,Private
+Extraversion ,Open University,0.9253,Bachelor of Science Honours in Mathematics,Gampaha,A,B,A,B,,S,S,Private
+Extraversion ,Open University,0.1262,Bachelor of Science Honours in Mathematics,Matara,A,B,A,B,,S,S,Private
+Extraversion ,Open University,0.03,Bachelor of Science Honours in Mathematics,Kandy,A,B,A,B,,S,S,Private
+Extraversion ,Open University,0.04,Bachelor of Science Honours in Mathematics,Kandy,A,B,A,B,,S,S,Private
+Extraversion ,Open University,0.03,Bachelor of Science Honours in Mathematics,Kandy,A,B,A,B,,S,S,Private
+Extraversion ,Open University,0.002,Bachelor of Science Honours in Mathematics,Colombo,A,A,A,B,,S,S,Private
+Extraversion ,Open University,0.0003,Bachelor of Science Honours in Mathematics,Kandy,A,A,A,B,,S,S,Private
+Extraversion ,Open University,0.2253,Bachelor of Science Honours in Mathematics,Galle,A,A,A,B,,S,S,Private
+Extraversion ,Open University,0.7802,Bachelor of Science Honours in Mathematics,Galle,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,0.9253,Bachelor of Science Honours in Mathematics,Badulla,A,A,A,B,,S,S,Private
+Conscientiousness,Open University,0.1262,Bachelor of Science Honours in Mathematics,Gampaha,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.03,Bachelor of Science Honours in Mathematics,Matara,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.04,Bachelor of Science Honours in Mathematics,Galle,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.03,Bachelor of Science Honours in Mathematics,Kagalle,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.002,Bachelor of Science Honours in Mathematics,Kandy,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.0003,Bachelor of Science Honours in Mathematics,Colombo,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.2253,Bachelor of Science Honours in Mathematics,Kalutara,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.7802,Bachelor of Science Honours in Mathematics,Kalutara,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.9253,Bachelor of Science Honours in Mathematics,Batticaloa,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.1262,Bachelor of Science Honours in Mathematics,Jaffna,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.03,Bachelor of Science Honours in Mathematics,Kagalle,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.04,Bachelor of Science Honours in Mathematics,Kilinochchi,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.03,Bachelor of Science Honours in Mathematics,Kurunegala,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.002,Bachelor of Science Honours in Mathematics,Mannar,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.0003,Bachelor of Science Honours in Mathematics,Mullaitivu,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.2253,Bachelor of Science honours in Physics,Nuwara Eliya,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.7802,Bachelor of Science honours in Physics,Polonnaruwa,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.9253,Bachelor of Science honours in Physics,Puttalam,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.1262,Bachelor of Science honours in Physics,Trincomalee,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.5,Bachelor of Science honours in Physics,Vavuniya,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.6,Bachelor of Science honours in Physics,Colombo,A,A,A,C,,C,S,Private
+Conscientiousness,Open University,0.8,Bachelor of Science honours in Physics,Colombo,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,-0.52,Bachelor of Science honours in Physics,Colombo,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.63,Bachelor of Science honours in Physics,Colombo,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,1.5,Bachelor of Science honours in Physics,Colombo,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,1.1,Bachelor of Science honours in Physics,Kalutara,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,1.6,Bachelor of Science honours in Physics,Gampaha,A,A,A,C,,C,C,Private
+Open,Open University,0.1236,Bachelor of Science honours in Physics,Matara,A,A,A,C,,C,C,Private
+Open,Open University,0.4526,Bachelor of Science honours in Physics,Kandy,A,A,A,C,,C,C,Private
+Open,Open University,0.42,Bachelor of Science honours in Physics,Kandy,A,A,A,C,,C,C,Private
+Open,Open University,0.89,Bachelor of Science honours in Physics,Kandy,A,A,A,C,,C,C,Private
+Open,Open University,0.6,Bachelor of Science honours in Physics,Colombo,A,A,A,C,,C,C,Private
+Open,Open University,0.1,Bachelor of Science honours in Physics,Kandy,A,A,A,C,,C,C,Private
+Open,Open University,1.5,Bachelor of Science honours in Physics,Galle,A,A,A,C,,C,C,Private
+Extraversion ,Open University,0.52,Bachelor of Science honours in Physics,Galle,A,A,A,C,,C,C,Private
+Extraversion ,Open University,0.1,Bachelor of Science honours in Physics,Badulla,A,B,A,C,,C,C,Private
+Extraversion ,Open University,1.4,Bachelor of Science honours in Physics,Gampaha,A,B,A,C,,C,C,Private
+Extraversion ,Open University,0,Bachelor of Science honours in Physics,Badulla,A,B,A,C,,C,S,Private
+Extraversion ,Open University,-0.25,Bachelor of Science honours in Physics,Batticaloa,A,B,A,C,,C,S,Private
+Extraversion ,Open University,-0.1202,Bachelor of Science honours in Physics,Jaffna,A,B,A,C,,C,S,Private
+Extraversion ,Open University,0.1,Bachelor of Science honours in Physics,Kagalle,A,B,A,C,,C,S,Private
+Extraversion ,Open University,-0.23,Bachelor of Science honours in Physics,Kilinochchi,A,B,A,C,,C,S,Private
+Extraversion ,Open University,0.6,Bachelor of Science honours in Physics,Kurunegala,A,B,A,C,,C,S,Private
+Extraversion ,Open University,0.8,Bachelor of Science honours in Physics,Mannar,A,B,A,C,,C,S,Private
+Extraversion ,Open University,0.52,Bachelor of Science honours in Physics,Mullaitivu,A,B,A,C,,C,S,Private
+Extraversion ,Open University,0.63,Bachelor of Science honours in Physics,Nuwara Eliya,A,A,A,C,,C,S,Private
+Extraversion ,Open University,1.5,Bachelor of Science honours in Physics,Polonnaruwa,A,A,A,C,,C,S,Private
+Extraversion ,Open University,1.1,Bachelor of Science honours in Physics,Puttalam,A,A,A,C,,C,S,Private
+Extraversion ,Open University,1.6,Bachelor of Science honours in Physics,Trincomalee,A,A,A,S,,B,S,Private
+Extraversion ,Open University,0.1236,Bachelor of Science honours in Physics,Vavuniya,A,A,A,S,,B,S,Private
+Extraversion ,Open University,-0.4526,Bachelor of Science honours in Physics,Colombo,A,A,A,S,,B,S,Private
+Extraversion ,Open University,-0.42,Bachelor of Science honours in Physics,Colombo,A,A,A,S,,B,S,Private
+Extraversion ,Open University,0.89,Bachelor of Science honours in Physics,Colombo,A,A,A,S,,B,S,Private
+Extraversion ,Open University,0.6,Bachelor of Science honours in Physics,Colombo,A,A,A,S,,B,S,Private
+Extraversion ,Open University,0.1,Bachelor of Science honours in Physics,Colombo,A,A,A,S,,B,S,Private
+Extraversion ,Open University,1.5,Bachelor of Science honours in Physics,Kalutara,A,A,A,S,,B,S,Private
+Extraversion ,Open University,0.52,Bachelor of Science honours in Physics,Gampaha,A,A,A,S,,B,S,Private
+Extraversion ,Open University,-0.1,Bachelor of Science honours in Physics,Matara,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,1.4,Bachelor of Science honours in Physics,Kandy,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0,Bachelor of Science honours in Physics,Kandy,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,-0.25,Bachelor of Science honours in Physics,Kandy,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,-0.1202,Bachelor of Science honours in Physics,Colombo,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,-0.125,Bachelor of Science honours in Physics,Kandy,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,-0.2252,Bachelor of Science honours in Physics,Galle,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,-0.2952,Bachelor of Science honours in Physics,Galle,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,-0.1992,Bachelor of Science honours in Physics,Badulla,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,-0.2561,Bachelor of Science honours in Physics,Gampaha,A,B,A,S,,B,S,Private
+Conscientiousness,Open University,0.2253,Bachelor of Science honours in Physics,Matara,A,B,A,S,,B,S,Private
+Conscientiousness,Open University,0.7802,Bachelor of Science honours in Physics,Galle,A,B,A,S,,B,S,Private
+Conscientiousness,Open University,0.9253,Bachelor of Science honours in Physics,Kagalle,A,B,A,S,,B,S,Private
+Conscientiousness,Open University,0.1262,Bachelor of Science honours in Physics,Kandy,A,B,A,S,,B,S,Private
+Conscientiousness,Open University,0.03,Bachelor of Science honours in Physics,Colombo,A,B,A,S,,B,S,Private
+Conscientiousness,Open University,0.04,Bachelor of Science honours in Physics,Kalutara,A,B,A,S,,B,S,Private
+Conscientiousness,Open University,0.03,Bachelor of Science honours in Physics,Kalutara,A,B,A,S,,B,S,Private
+Conscientiousness,Open University,0.002,Bachelor of Science honours in Physics,Colombo,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.0003,Bachelor of Science honours in Physics,Colombo,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.2253,Bachelor of Science honours in Physics,Matara,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.7802,Bachelor of Science honours in Physics,Galle,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.9253,Bachelor of Science honours in Physics,Kandy,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.1262,Bachelor of Science honours in Physics,Gampaha,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.03,Bachelor of Science honours in Physics,Hambantota,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.04,Bachelor of Science honours in Physics,Badulla,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.03,Bachelor of Science honours in Physics,Batticaloa,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.002,Bachelor of Science honours in Physics,Jaffna,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.0003,Bachelor of Science honours in Physics,Kagalle,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.2253,Bachelor of Science honours in Physics,Kilinochchi,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.7802,Bachelor of Science honours in Physics,Kurunegala,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.9253,Bachelor of Science honours in Physics,Mannar,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.1262,Bachelor of Science honours in Physics,Mullaitivu,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.03,Bachelor of Science honours in Physics,Nuwara Eliya,A,A,A,S,,B,S,Private
+Conscientiousness,Open University,0.04,Bachelor of Science honours in Physics,Polonnaruwa,A,A,B,S,,B,C,Private
+Conscientiousness,Open University,0.03,Bachelor of Science honours in Physics,Puttalam,A,A,B,S,,B,S,Private
+Conscientiousness,Open University,0.002,Bachelor of Science honours in Physics,Trincomalee,A,A,B,S,,B,S,Private
+Conscientiousness,Open University,0.0003,Bachelor of Science honours in Physics,Vavuniya,A,A,B,S,,B,S,Private
+Conscientiousness,Open University,0.2253,Bachelor of Science honours in Physics,Colombo,A,A,B,S,,B,S,Private
+Conscientiousness,Open University,0.7802,Bachelor of Science honours in Physics,Colombo,A,A,B,C,,B,S,Private
+Conscientiousness,Open University,0.9253,Bachelor of Science honours in Physics,Colombo,A,A,B,C,,B,S,Private
+Conscientiousness,Open University,0.1262,Bachelor of Science honours in Physics,Colombo,A,A,B,C,,B,S,Private
+Conscientiousness,Open University,0.5,Bachelor of Science honours in Physics,Colombo,A,A,B,C,,C,S,Private
+Conscientiousness,Open University,0.6,Bachelor of Science honours in Physics,Kalutara,A,A,A,C,,C,C,Private
+Conscientiousness,Open University,0.8,Bachelor of Science honours in Physics,Gampaha,A,B,B,C,,C,S,Private
+Conscientiousness,Open University,-0.52,Bachelor of Science honours in Physics,Matara,A,B,B,C,,C,S,Private
+Conscientiousness,Open University,0.63,Bachelor of Science honours in Physics,Kandy,A,B,B,C,,C,S,Private
+Conscientiousness,Open University,1.5,Bachelor of Science honours in Physics,Kandy,A,B,B,C,,C,C,Private
+Conscientiousness,Open University,1.1,Bachelor of Science honours in Physics,Kandy,A,B,B,C,,C,C,Private
+Conscientiousness,Open University,1.6,Bachelor of Science honours in Physics,Colombo,A,B,B,C,,C,C,Private
+Conscientiousness,Open University,0.1236,Bachelor of Science honours in Physics,Kandy,A,B,B,C,,C,C,Private
+Conscientiousness,Open University,0.4526,Bachelor of Science honours in Physics,Galle,A,B,B,C,,C,C,Private
+Conscientiousness,Open University,0.42,Bachelor of Science honours in Physics,Galle,A,A,B,C,,C,C,Private
+Conscientiousness,Open University,0.89,Bachelor of Science honours in Physics,Badulla,B,A,B,C,,C,C,Private
+Conscientiousness,Open University,0.6,Bachelor of Science honours in Physics,Gampaha,A,A,B,C,,C,C,Private
+Conscientiousness,Open University,0.1,Bachelor of Science honours in Physics,Badulla,A,A,B,C,,C,C,Private
+Conscientiousness,Open University,1.5,Bachelor of Science honours in Physics,Batticaloa,A,A,B,C,,C,C,Private
+Conscientiousness,Open University,0.52,Bachelor of Science honours in Physics,Jaffna,A,A,B,C,,C,C,Private
+Conscientiousness,Open University,0.1,Bachelor of Science honours in Physics,Kagalle,A,A,B,C,,C,C,Private
+Conscientiousness,Open University,1.4,Bachelor of Science honours in Physics,Kilinochchi,A,A,B,C,,C,C,Private
+Conscientiousness,Open University,0,Bachelor of Science honours in Physics,Kurunegala,A,A,B,S,,B,C,Private
+Open,Open University,-0.25,Bachelor of Science honours in Physics,Mannar,A,A,B,S,,B,C,Private
+Open,Open University,-0.1202,Bachelor of Science honours in Physics,Mullaitivu,A,B,B,S,,B,S,Private
+Open,Open University,0.1,Bachelor of Science honours in Physics,Nuwara Eliya,A,B,B,S,,B,S,Private
+Open,Open University,-0.23,Bachelor of Science honours in Physics,Polonnaruwa,A,B,B,S,,B,S,Private
+Open,Open University,0.6,Bachelor of Science honours in Physics,Puttalam,A,B,B,S,,B,S,Private
+Open,Open University,0.8,Bachelor of Science honours in Physics,Trincomalee,A,B,B,S,,B,S,Private
+Open,Open University,0.52,Bachelor of Science honours in Physics,Vavuniya,A,B,B,S,,S,S,Private
+Extraversion ,Open University,0.63,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,S,,S,B,Private
+Extraversion ,Open University,1.5,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,S,,S,B,Private
+Extraversion ,Open University,1.1,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,S,,S,B,Private
+Extraversion ,Open University,1.6,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,S,,S,B,Private
+Extraversion ,Open University,0.1236,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,S,,S,B,Private
+Extraversion ,Open University,-0.4526,Bachelor of Science Honours in Chemistry,Kalutara,A,A,A,S,,S,B,Private
+Extraversion ,Open University,-0.42,Bachelor of Science Honours in Chemistry,Gampaha,A,A,A,S,,S,B,Private
+Extraversion ,Open University,0.89,Bachelor of Science Honours in Chemistry,Matara,A,A,A,S,,S,B,Private
+Extraversion ,Open University,0.6,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,S,,S,B,Private
+Extraversion ,Open University,0.1,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,S,,S,B,Private
+Extraversion ,Open University,1.5,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,S,,S,B,Private
+Extraversion ,Open University,0.52,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,S,,S,B,Private
+Extraversion ,Open University,-0.1,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,S,,S,B,Private
+Extraversion ,Open University,1.4,Bachelor of Science Honours in Chemistry,Galle,A,A,A,S,,S,B,Private
+Extraversion ,Open University,0,Bachelor of Science Honours in Chemistry,Galle,A,A,A,S,,S,B,Private
+Extraversion ,Open University,-0.25,Bachelor of Science Honours in Chemistry,Badulla,A,A,A,S,,S,B,Private
+Extraversion ,Open University,-0.1202,Bachelor of Science Honours in Chemistry,Gampaha,A,A,A,S,,S,B,Private
+Extraversion ,Open University,-0.125,Bachelor of Science Honours in Chemistry,Badulla,A,A,A,S,,S,B,Private
+Extraversion ,Open University,-0.2252,Bachelor of Science Honours in Chemistry,Batticaloa,A,A,A,S,,S,B,Private
+Extraversion ,Open University,-0.2952,Bachelor of Science Honours in Chemistry,Jaffna,A,A,A,,S,S,B,Private
+Extraversion ,Open University,-0.1992,Bachelor of Science Honours in Chemistry,Kagalle,A,A,A,,S,S,B,Private
+Extraversion ,Open University,-0.2561,Bachelor of Science Honours in Chemistry,Kilinochchi,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kurunegala,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Mannar,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Mullaitivu,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Nuwara Eliya,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Polonnaruwa,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Puttalam,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Trincomalee,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Vavuniya,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kalutara,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Gampaha,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Matara,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Galle,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Galle,A,A,A,,S,C,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Badulla,A,A,A,,S,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Gampaha,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Matara,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Galle,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kagalle,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kalutara,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kalutara,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Badulla,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Batticaloa,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Jaffna,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kagalle,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kilinochchi,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Kurunegala,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Mannar,A,A,A,,C,S,B,Private
+Extraversion ,Open University,,Bachelor of Science Honours in Chemistry,Mullaitivu,A,A,A,,C,S,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Nuwara Eliya,A,A,A,,C,S,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Polonnaruwa,A,A,A,,C,S,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Puttalam,A,A,A,,S,S,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Trincomalee,A,A,A,,S,S,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Vavuniya,A,A,A,,S,C,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Kalutara,A,A,A,,S,S,B,Private
+Open,Open University,,Bachelor of Science Honours in Chemistry,Gampaha,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Matara,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Colombo,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Kandy,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Galle,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Galle,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Badulla,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Gampaha,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Badulla,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Batticaloa,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Jaffna,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in Chemistry,Kagalle,A,A,A,,S,S,B,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Kilinochchi,A,A,A,,B,S,S,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Kurunegala,A,A,A,,B,S,S,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Mannar,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Mullaitivu,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Nuwara Eliya,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Polonnaruwa,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Puttalam,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Trincomalee,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Vavuniya,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Kalutara,A,A,A,,B,S,S,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Gampaha,A,A,A,,C,S,C,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Matara,A,A,A,,C,S,C,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Kandy,A,A,A,,C,S,C,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Kandy,A,A,A,,C,S,C,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Kandy,A,A,A,,C,S,C,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,C,S,C,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Kandy,B,A,A,,C,S,C,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Galle,B,A,A,,C,S,C,Private
+Agreeableness,Open University,,Bachelor of Science Honours in?Botany,Galle,B,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Badulla,B,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Gampaha,B,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Badulla,A,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Batticaloa,A,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Jaffna,A,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Kagalle,A,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Kilinochchi,A,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Kurunegala,A,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Mannar,A,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Mullaitivu,A,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Nuwara Eliya,A,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Polonnaruwa,A,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Puttalam,A,A,A,,C,S,C,Private
+Conscientiousness,Open University,,Bachelor of Science Honours in?Botany,Trincomalee,A,A,A,,C,S,C,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Vavuniya,A,A,A,,C,S,C,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,C,S,C,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,C,S,C,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,B,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,B,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,B,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Kalutara,A,A,A,,B,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Gampaha,A,A,A,,B,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Matara,B,A,A,,B,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Kandy,B,A,A,,B,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Kandy,B,A,A,,B,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Kandy,B,A,A,,B,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Colombo,B,A,A,,B,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Kandy,A,A,A,,C,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Galle,A,A,A,,C,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Galle,A,A,A,,B,S,S,Private
+Open,Open University,,Bachelor of Science Honours in?Botany,Badulla,A,A,A,,C,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Gampaha,A,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Matara,A,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Galle,A,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Kagalle,A,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Kandy,A,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Colombo,A,A,A,,C,S,C,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Kalutara,B,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Kalutara,B,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Batticaloa,B,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Jaffna,B,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Kagalle,B,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Kilinochchi,B,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Kurunegala,A,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Mannar,A,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Mullaitivu,A,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Nuwara Eliya,A,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Polonnaruwa,A,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Puttalam,B,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Trincomalee,B,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Vavuniya,B,A,A,,B,S,S,Private
+Extraversion ,Open University,,Bachelor of Science Honours in?Botany,Colombo,B,A,A,,B,S,S,Private

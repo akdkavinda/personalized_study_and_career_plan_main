@@ -1,0 +1,7 @@
+https://www.kaggle.com/code/akdagmelih/five-personality-clusters-k-means
+
+https://www.kaggle.com/datasets/tunguz/big-five-personality-test
+
+Link To Questions - https://openpsychometrics.org/tests/IPIP-BFFM/1.php 
+
+Big Five Personality Test + Clustering = https://www.kaggle.com/code/khotijahs1/big-five-personality-test-clustering/notebook
